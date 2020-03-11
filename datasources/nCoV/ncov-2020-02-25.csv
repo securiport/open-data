@@ -1,0 +1,95 @@
+Province/State,Country/Region,Confirmed,Deaths,Recovered
+Hubei,Mainland China,64786,2563,18971
+Guangdong,Mainland China,1347,7,822
+Henan,Mainland China,1271,19,1002
+Zhejiang,Mainland China,1205,1,808
+Hunan,Mainland China,1016,4,768
+Anhui,Mainland China,989,6,712
+,South Korea,977,10,22
+Jiangxi,Mainland China,934,1,683
+Shandong,Mainland China,756,6,355
+Diamond Princess cruise ship,Others,691,3,0
+Jiangsu,Mainland China,631,0,458
+Chongqing,Mainland China,576,6,372
+Sichuan,Mainland China,529,3,289
+Heilongjiang,Mainland China,480,12,243
+Beijing,Mainland China,400,4,215
+Shanghai,Mainland China,336,3,268
+,Italy,322,10,1
+Hebei,Mainland China,311,6,248
+Fujian,Mainland China,294,1,199
+Guangxi,Mainland China,252,2,134
+Shaanxi,Mainland China,245,1,186
+Yunnan,Mainland China,174,2,129
+,Japan,170,1,22
+Hainan,Mainland China,168,5,124
+Guizhou,Mainland China,146,2,104
+Tianjin,Mainland China,135,3,91
+Shanxi,Mainland China,133,0,98
+Liaoning,Mainland China,121,1,83
+,Iran,95,16,0
+Jilin,Mainland China,93,1,63
+Gansu,Mainland China,91,2,80
+,Singapore,91,0,53
+Hong Kong,Hong Kong,84,2,19
+Xinjiang,Mainland China,76,2,30
+Inner Mongolia,Mainland China,75,0,35
+Ningxia,Mainland China,71,0,61
+,Thailand,37,0,22
+Unassigned Location (From Diamond Princess),US,36,0,0
+Taiwan,Taiwan,31,1,5
+,Bahrain,23,0,0
+,Malaysia,22,0,18
+Qinghai,Mainland China,18,0,18
+,Germany,17,0,14
+,Vietnam,16,0,16
+,France,14,1,11
+,UK,13,0,8
+,United Arab Emirates,13,0,4
+,Kuwait,11,0,0
+Macau,Macau,10,0,7
+From Diamond Princess,Australia,7,0,0
+British Columbia,Canada,7,0,0
+,Spain,6,0,2
+Queensland,Australia,5,0,1
+New South Wales,Australia,4,0,4
+Victoria,Australia,4,0,4
+"Toronto, ON",Canada,3,0,2
+,India,3,0,3
+,Philippines,3,1,1
+South Australia,Australia,2,0,2
+None,Austria,2,0,0
+,Oman,2,0,0
+,Russia,2,0,2
+"Chicago, IL",US,2,0,2
+"San Benito, CA",US,2,0,0
+"San Diego County, CA",US,2,0,1
+"Santa Clara, CA",US,2,0,1
+,Afghanistan,1,0,0
+,Algeria,1,0,0
+,Belgium,1,0,1
+,Cambodia,1,0,1
+"London, ON",Canada,1,0,1
+,Croatia,1,0,0
+,Egypt,1,0,0
+,Finland,1,0,1
+,Iraq,1,0,0
+From Diamond Princess,Israel,1,0,0
+,Lebanon,1,0,0
+Tibet,Mainland China,1,0,1
+,Nepal,1,0,1
+,Sri Lanka,1,0,1
+,Sweden,1,0,0
+,Switzerland,1,0,0
+"Boston, MA",US,1,0,0
+"Humboldt County, CA",US,1,0,0
+"Los Angeles, CA",US,1,0,0
+"Madison, WI",US,1,0,0
+"Orange, CA",US,1,0,0
+"Sacramento County, CA",US,1,0,0
+"San Antonio, TX",US,1,0,0
+"Seattle, WA",US,1,0,1
+"Tempe, AZ",US,1,0,1
+"Lackland, TX (From Diamond Princess)",US,0,0,0
+"Omaha, NE (From Diamond Princess)",US,0,0,0
+"Travis, CA (From Diamond Princess)",US,0,0,0

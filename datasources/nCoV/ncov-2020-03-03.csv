@@ -1,0 +1,152 @@
+Province/State,Country/Region,Confirmed,Deaths,Recovered
+Hubei,Mainland China,67217,2835,36208
+,South Korea,5186,28,30
+,Italy,2502,79,160
+,Iran,2336,77,291
+Guangdong,Mainland China,1350,7,1101
+Henan,Mainland China,1272,22,1231
+Zhejiang,Mainland China,1213,1,1093
+Hunan,Mainland China,1018,4,906
+Anhui,Mainland China,990,6,936
+Jiangxi,Mainland China,935,1,870
+Shandong,Mainland China,758,6,511
+Diamond Princess cruise ship,Others,706,6,10
+Jiangsu,Mainland China,631,0,562
+Chongqing,Mainland China,576,6,490
+Sichuan,Mainland China,538,3,394
+Heilongjiang,Mainland China,480,13,366
+Beijing,Mainland China,414,8,288
+Shanghai,Mainland China,338,3,294
+Hebei,Mainland China,318,6,300
+Fujian,Mainland China,296,1,260
+,Japan,293,6,43
+Guangxi,Mainland China,252,2,202
+Shaanxi,Mainland China,245,1,216
+,France,204,4,12
+,Germany,196,0,16
+Yunnan,Mainland China,174,2,169
+Hainan,Mainland China,168,5,155
+,Spain,165,1,2
+Guizhou,Mainland China,146,2,114
+Tianjin,Mainland China,136,3,124
+Shanxi,Mainland China,133,0,124
+Liaoning,Mainland China,125,1,106
+,Singapore,110,0,78
+Hong Kong,Hong Kong,100,2,37
+Jilin,Mainland China,93,1,83
+Gansu,Mainland China,91,2,86
+Xinjiang,Mainland China,76,3,68
+Inner Mongolia,Mainland China,75,1,59
+Ningxia,Mainland China,74,0,69
+,Kuwait,56,0,0
+,Switzerland,56,0,2
+,UK,51,0,8
+,Bahrain,49,0,0
+Unassigned Location (From Diamond Princess),US,45,0,0
+,Thailand,43,1,31
+Taiwan,Taiwan,42,1,12
+,Malaysia,36,0,22
+,Iraq,32,0,0
+,Norway,32,0,0
+,United Arab Emirates,27,0,5
+,Netherlands,24,0,0
+,Austria,21,0,0
+,Sweden,21,0,0
+"King County, WA",US,21,6,1
+"Toronto, ON",Canada,19,0,2
+Qinghai,Mainland China,18,0,18
+,Vietnam,16,0,16
+New South Wales,Australia,13,0,4
+,Belgium,13,0,1
+,Lebanon,13,0,0
+,Israel,12,0,1
+,Oman,12,0,2
+Queensland,Australia,11,0,1
+,Iceland,11,0,0
+"Santa Clara, CA",US,11,0,1
+Macau,Macau,10,0,9
+,San Marino,10,1,0
+Victoria,Australia,9,0,4
+British Columbia,Canada,9,0,3
+,Croatia,9,0,0
+,Ecuador,7,0,0
+,Greece,7,0,0
+,Qatar,7,0,0
+,Denmark,6,0,0
+,Finland,6,0,1
+"Snohomish County, WA",US,6,1,0
+,Algeria,5,0,0
+,Czech Republic,5,0,0
+,India,5,0,3
+,Mexico,5,0,1
+,Pakistan,5,0,0
+"Cook County, IL",US,4,0,2
+South Australia,Australia,3,0,2
+,Azerbaijan,3,0,0
+,Georgia,3,0,0
+,Philippines,3,1,1
+,Romania,3,0,0
+,Russia,3,0,2
+Western Australia,Australia,2,1,0
+,Brazil,2,0,0
+,Egypt,2,0,1
+,Estonia,2,0,0
+,Indonesia,2,0,0
+,Ireland,2,0,0
+,Portugal,2,0,0
+,Senegal,2,0,0
+"Fulton County, GA",US,2,0,0
+"Grafton County, NH",US,2,0,0
+"Hillsborough, FL",US,2,0,0
+"Providence, RI",US,2,0,0
+"Sacramento County, CA",US,2,0,0
+"San Benito, CA",US,2,0,0
+"San Diego County, CA",US,2,0,1
+"San Mateo, CA",US,2,0,0
+"Washington County, OR",US,2,0,0
+,Afghanistan,1,0,0
+,Andorra,1,0,0
+,Argentina,1,0,0
+,Armenia,1,0,0
+Tasmania,Australia,1,0,0
+,Belarus,1,0,0
+,Cambodia,1,0,1
+" Montreal, QC",Canada,1,0,0
+"London, ON",Canada,1,0,1
+,Chile,1,0,0
+,Dominican Republic,1,0,0
+,Jordan,1,0,0
+,Latvia,1,0,0
+,Lithuania,1,0,0
+,Luxembourg,1,0,0
+Tibet,Mainland China,1,0,1
+,Monaco,1,0,0
+,Morocco,1,0,0
+,Nepal,1,0,1
+,New Zealand,1,0,0
+,Nigeria,1,0,0
+,North Macedonia,1,0,0
+,Saudi Arabia,1,0,0
+,Sri Lanka,1,0,1
+" Norfolk County, MA",US,1,0,0
+"Berkeley, CA",US,1,0,0
+"Boston, MA",US,1,0,1
+"Humboldt County, CA",US,1,0,0
+"Los Angeles, CA",US,1,0,0
+"Madison, WI",US,1,0,1
+"Maricopa County, AZ",US,1,0,0
+"New York City, NY",US,1,0,0
+"Orange, CA",US,1,0,0
+"Placer County, CA",US,1,0,0
+"San Antonio, TX",US,1,0,0
+"Sarasota, FL",US,1,0,0
+"Sonoma County, CA",US,1,0,0
+"Tempe, AZ",US,1,0,1
+"Umatilla, OR",US,1,0,0
+"Wake County, NC",US,1,0,0
+"Westchester County, NY",US,1,0,0
+,Ukraine,1,0,0
+From Diamond Princess,Australia,0,0,0
+"Lackland, TX (From Diamond Princess)",US,0,0,0
+"Omaha, NE (From Diamond Princess)",US,0,0,0
+"Travis, CA (From Diamond Princess)",US,0,0,0
