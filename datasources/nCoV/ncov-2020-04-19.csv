@@ -1,0 +1,3073 @@
+Province/State,Country/Region,Confirmed,Deaths,Recovered
+"Abbeville, South Carolina, US",US,17,0,0
+"Acadia, Louisiana, US",US,103,7,0
+"Accomack, Virginia, US",US,42,0,0
+"Ada, Idaho, US",US,588,10,0
+"Adair, Iowa, US",US,1,0,0
+"Adair, Kentucky, US",US,50,3,0
+"Adair, Missouri, US",US,12,0,0
+"Adair, Oklahoma, US",US,40,3,0
+"Adams, Colorado, US",US,880,35,0
+"Adams, Idaho, US",US,1,0,0
+"Adams, Illinois, US",US,34,0,0
+"Adams, Indiana, US",US,6,1,0
+"Adams, Mississippi, US",US,75,6,0
+"Adams, Nebraska, US",US,98,0,0
+"Adams, Ohio, US",US,3,0,0
+"Adams, Pennsylvania, US",US,79,1,0
+"Adams, Washington, US",US,41,0,0
+"Adams, Wisconsin, US",US,3,1,0
+"Addison, Vermont, US",US,59,2,0
+"Aiken, South Carolina, US",US,65,4,0
+"Aitkin, Minnesota, US",US,1,0,0
+"Alachua, Florida, US",US,210,0,0
+"Alamance, North Carolina, US",US,50,0,0
+"Alameda, California, US",US,1122,42,0
+"Alamosa, Colorado, US",US,5,2,0
+"Albany, New York, US",US,662,20,0
+"Albany, Wyoming, US",US,6,0,0
+"Albemarle, Virginia, US",US,57,0,0
+"Alcona, Michigan, US",US,1,0,0
+"Alcorn, Mississippi, US",US,8,0,0
+"Alexander, Illinois, US",US,2,0,0
+"Alexander, North Carolina, US",US,3,0,0
+"Alexandria, Virginia, US",US,376,7,0
+"Alfalfa, Oklahoma, US",US,1,0,0
+"Allamakee, Iowa, US",US,33,3,0
+"Allegan, Michigan, US",US,41,0,0
+"Allegany, Maryland, US",US,32,1,0
+"Allegany, New York, US",US,28,2,0
+"Alleghany, North Carolina, US",US,2,0,0
+"Alleghany, Virginia, US",US,5,0,0
+"Allegheny, Pennsylvania, US",US,985,50,0
+"Allen, Indiana, US",US,282,19,0
+"Allen, Kentucky, US",US,4,0,0
+"Allen, Louisiana, US",US,70,9,0
+"Allen, Ohio, US",US,68,11,0
+"Allendale, South Carolina, US",US,6,0,0
+"Alpena, Michigan, US",US,13,1,0
+"Alpine, California, US",US,2,0,0
+"Amador, California, US",US,7,0,0
+"Amelia, Virginia, US",US,14,0,0
+"Amherst, Virginia, US",US,10,0,0
+"Amite, Mississippi, US",US,17,0,0
+"Anchorage, Alaska, US",US,150,4,0
+"Anderson, Kansas, US",US,0,0,0
+"Anderson, Kentucky, US",US,5,1,0
+"Anderson, South Carolina, US",US,127,5,0
+"Anderson, Tennessee, US",US,15,1,0
+"Anderson, Texas, US",US,8,0,0
+"Andrew, Missouri, US",US,1,0,0
+"Andrews, Texas, US",US,19,0,0
+"Androscoggin, Maine, US",US,34,1,0
+"Angelina, Texas, US",US,23,0,0
+"Anne Arundel, Maryland, US",US,1001,46,0
+"Anoka, Minnesota, US",US,91,2,0
+"Anson, North Carolina, US",US,16,0,0
+"Antelope, Nebraska, US",US,1,0,0
+"Antrim, Michigan, US",US,9,0,0
+"Apache, Arizona, US",US,174,4,0
+"Appanoose, Iowa, US",US,0,2,0
+"Appling, Georgia, US",US,20,0,0
+"Appomattox, Virginia, US",US,7,0,0
+"Aransas, Texas, US",US,2,0,0
+"Arapahoe, Colorado, US",US,1471,65,0
+"Archuleta, Colorado, US",US,7,0,0
+"Arenac, Michigan, US",US,11,0,0
+"Arkansas, Arkansas, US",US,2,0,0
+"Arlington, Virginia, US",US,559,16,0
+"Armstrong, Pennsylvania, US",US,36,2,0
+"Armstrong, Texas, US",US,1,0,0
+"Aroostook, Maine, US",US,2,0,0
+"Ascension, Louisiana, US",US,478,30,0
+"Ashe, North Carolina, US",US,4,0,0
+"Ashland, Ohio, US",US,6,0,0
+"Ashland, Wisconsin, US",US,2,0,0
+"Ashley, Arkansas, US",US,11,0,0
+"Ashtabula, Ohio, US",US,61,5,0
+"Asotin, Washington, US",US,13,0,0
+"Assumption, Louisiana, US",US,145,1,0
+"Atascosa, Texas, US",US,11,1,0
+"Atchison, Kansas, US",US,5,0,0
+"Atchison, Missouri, US",US,2,0,0
+"Athens, Ohio, US",US,2,1,0
+"Atkinson, Georgia, US",US,5,0,0
+"Atlantic, New Jersey, US",US,379,19,0
+"Atoka, Oklahoma, US",US,1,0,0
+"Attala, Mississippi, US",US,36,0,0
+"Audubon, Iowa, US",US,1,0,0
+"Auglaize, Ohio, US",US,20,2,0
+"Augusta, Virginia, US",US,22,0,0
+"Aurora, South Dakota, US",US,1,0,0
+"Austin, Texas, US",US,12,0,0
+"Autauga, Alabama, US",US,24,2,0
+"Avoyelles, Louisiana, US",US,66,3,0
+"Baca, Colorado, US",US,10,0,0
+"Bacon, Georgia, US",US,17,1,0
+"Baker, Florida, US",US,14,3,0
+"Baker, Georgia, US",US,15,2,0
+"Baldwin, Alabama, US",US,110,2,0
+"Baldwin, Georgia, US",US,108,2,0
+"Ballard, Kentucky, US",US,4,0,0
+"Baltimore, Maryland, US",US,1683,50,0
+"Baltimore City, Maryland, US",US,1341,51,0
+"Bamberg, South Carolina, US",US,7,0,0
+"Bandera, Texas, US",US,4,0,0
+"Banks, Georgia, US",US,14,0,0
+"Bannock, Idaho, US",US,8,0,0
+"Baraga, Michigan, US",US,0,0,0
+"Barber, Kansas, US",US,1,0,0
+"Barbour, Alabama, US",US,20,0,0
+"Barbour, West Virginia, US",US,4,0,0
+"Barnes, North Dakota, US",US,3,0,0
+"Barnstable, Massachusetts, US",US,611,21,0
+"Barnwell, South Carolina, US",US,5,0,0
+"Barren, Kentucky, US",US,6,0,0
+"Barron, Wisconsin, US",US,6,0,0
+"Barrow, Georgia, US",US,87,3,0
+"Barry, Michigan, US",US,24,1,0
+"Barry, Missouri, US",US,3,0,0
+"Bartholomew, Indiana, US",US,130,6,0
+"Barton, Kansas, US",US,6,0,0
+"Bartow, Georgia, US",US,226,22,0
+"Bastrop, Texas, US",US,42,2,0
+"Bates, Missouri, US",US,5,1,0
+"Bath, Kentucky, US",US,3,0,0
+"Bath, Virginia, US",US,0,0,0
+"Baxter, Arkansas, US",US,5,0,0
+"Bay, Florida, US",US,53,2,0
+"Bay, Michigan, US",US,80,2,0
+"Bayfield, Wisconsin, US",US,2,1,0
+"Beadle, South Dakota, US",US,19,2,0
+"Bear River, Utah, US",US,54,0,0
+"Beaufort, North Carolina, US",US,14,0,0
+"Beaufort, South Carolina, US",US,219,6,0
+"Beauregard, Louisiana, US",US,33,2,0
+"Beaver, Oklahoma, US",US,1,0,0
+"Beaver, Pennsylvania, US",US,256,32,0
+"Beaverhead, Montana, US",US,1,0,0
+"Becker, Minnesota, US",US,1,0,0
+"Beckham, Oklahoma, US",US,2,0,0
+"Bedford, Pennsylvania, US",US,14,1,0
+"Bedford, Tennessee, US",US,69,2,0
+"Bedford, Virginia, US",US,18,0,0
+"Bee, Texas, US",US,5,0,0
+"Belknap, New Hampshire, US",US,26,0,0
+"Bell, Texas, US",US,123,3,0
+"Belmont, Ohio, US",US,65,3,0
+"Beltrami, Minnesota, US",US,5,0,0
+"Ben Hill, Georgia, US",US,15,0,0
+"Bennington, Vermont, US",US,36,1,0
+"Benton, Arkansas, US",US,62,0,0
+"Benton, Indiana, US",US,4,0,0
+"Benton, Iowa, US",US,22,1,0
+"Benton, Minnesota, US",US,4,0,0
+"Benton, Mississippi, US",US,7,0,0
+"Benton, Missouri, US",US,3,0,0
+"Benton, Oregon, US",US,22,5,0
+"Benton, Tennessee, US",US,4,0,0
+"Benton, Washington, US",US,279,34,0
+"Benzie, Michigan, US",US,3,0,0
+"Bergen, New Jersey, US",US,11872,767,0
+"Berkeley, South Carolina, US",US,129,3,0
+"Berkeley, West Virginia, US",US,108,1,0
+"Berks, Pennsylvania, US",US,1833,65,0
+"Berkshire, Massachusetts, US",US,360,27,0
+"Bernalillo, New Mexico, US",US,518,24,0
+"Berrien, Georgia, US",US,10,0,0
+"Berrien, Michigan, US",US,150,8,0
+"Bertie, North Carolina, US",US,20,1,0
+"Bethel, Alaska, US",US,1,0,0
+"Bexar, Texas, US",US,954,38,0
+"Bibb, Alabama, US",US,28,0,0
+"Bibb, Georgia, US",US,198,1,0
+"Bienville, Louisiana, US",US,57,9,0
+"Big Horn, Montana, US",US,3,0,0
+"Big Horn, Wyoming, US",US,1,0,0
+"Big Stone, Minnesota, US",US,1,0,0
+"Bingham, Idaho, US",US,3,0,0
+"Black Hawk, Iowa, US",US,191,1,0
+"Blackford, Indiana, US",US,5,1,0
+"Bladen, North Carolina, US",US,2,0,0
+"Blaine, Idaho, US",US,470,5,0
+"Blair, Pennsylvania, US",US,13,0,0
+"Blanco, Texas, US",US,5,0,0
+"Bland, Virginia, US",US,0,0,0
+"Bleckley, Georgia, US",US,6,0,0
+"Bledsoe, Tennessee, US",US,9,0,0
+"Blount, Alabama, US",US,21,0,0
+"Blount, Tennessee, US",US,43,3,0
+"Blue Earth, Minnesota, US",US,23,0,0
+"Bolivar, Mississippi, US",US,77,5,0
+"Bollinger, Missouri, US",US,3,0,0
+"Bon Homme, South Dakota, US",US,4,0,0
+"Bond, Illinois, US",US,3,1,0
+"Bonner, Idaho, US",US,4,0,0
+"Bonneville, Idaho, US",US,24,0,0
+"Boone, Arkansas, US",US,3,0,0
+"Boone, Illinois, US",US,28,2,0
+"Boone, Indiana, US",US,145,8,0
+"Boone, Iowa, US",US,6,0,0
+"Boone, Kentucky, US",US,79,2,0
+"Boone, Missouri, US",US,92,1,0
+"Boone, West Virginia, US",US,2,0,0
+"Bosque, Texas, US",US,1,0,0
+"Bossier, Louisiana, US",US,222,11,0
+"Botetourt, Virginia, US",US,24,0,0
+"Boulder, Colorado, US",US,335,17,0
+"Boundary, Idaho, US",US,0,0,0
+"Bourbon, Kansas, US",US,6,1,0
+"Bourbon, Kentucky, US",US,6,1,0
+"Bowie, Texas, US",US,56,1,0
+"Bowman, North Dakota, US",US,1,0,0
+"Box Butte, Nebraska, US",US,1,0,0
+"Boyd, Kentucky, US",US,27,2,0
+"Boyle, Kentucky, US",US,13,0,0
+"Bracken, Kentucky, US",US,7,0,0
+"Bradford, Florida, US",US,40,2,0
+"Bradford, Pennsylvania, US",US,24,1,0
+"Bradley, Arkansas, US",US,6,1,0
+"Bradley, Tennessee, US",US,36,1,0
+"Branch, Michigan, US",US,36,2,0
+"Brantley, Georgia, US",US,16,2,0
+"Braxton, West Virginia, US",US,1,0,0
+"Brazoria, Texas, US",US,301,3,0
+"Brazos, Texas, US",US,153,16,0
+"Breathitt, Kentucky, US",US,1,0,0
+"Breckinridge, Kentucky, US",US,6,0,0
+"Bremer, Iowa, US",US,26,0,0
+"Brevard, Florida, US",US,208,7,0
+"Bristol, Massachusetts, US",US,1644,87,0
+"Bristol, Rhode Island, US",US,59,0,0
+"Bristol, Virginia, US",US,1,0,0
+"Broadwater, Montana, US",US,4,0,0
+"Brooke, West Virginia, US",US,3,0,0
+"Brookings, South Dakota, US",US,9,0,0
+"Brooks, Georgia, US",US,18,5,0
+"Broome, New York, US",US,182,10,0
+"Broomfield, Colorado, US",US,99,2,0
+"Broward, Florida, US",US,3856,115,0
+"Brown, Indiana, US",US,13,1,0
+"Brown, Minnesota, US",US,6,1,0
+"Brown, Ohio, US",US,8,1,0
+"Brown, South Dakota, US",US,20,0,0
+"Brown, Texas, US",US,12,1,0
+"Brown, Wisconsin, US",US,214,1,0
+"Brule, South Dakota, US",US,0,0,0
+"Brunswick, North Carolina, US",US,34,2,0
+"Brunswick, Virginia, US",US,12,0,0
+"Bryan, Georgia, US",US,31,2,0
+"Bryan, Oklahoma, US",US,5,0,0
+"Buchanan, Iowa, US",US,8,0,0
+"Buchanan, Missouri, US",US,30,1,0
+"Buchanan, Virginia, US",US,12,0,0
+"Buckingham, Virginia, US",US,26,0,0
+"Bucks, Pennsylvania, US",US,1713,84,0
+"Buena Vista, Iowa, US",US,2,0,0
+"Buena Vista, Virginia, US",US,5,0,0
+"Buffalo, Nebraska, US",US,51,1,0
+"Buffalo, Wisconsin, US",US,3,1,0
+"Bullitt, Kentucky, US",US,31,2,0
+"Bulloch, Georgia, US",US,26,1,0
+"Bullock, Alabama, US",US,9,0,0
+"Buncombe, North Carolina, US",US,44,3,0
+"Bureau, Illinois, US",US,8,0,0
+"Burke, Georgia, US",US,45,2,0
+"Burke, North Carolina, US",US,62,6,0
+"Burke, North Dakota, US",US,2,0,0
+"Burleigh, North Dakota, US",US,63,0,0
+"Burleson, Texas, US",US,9,0,0
+"Burlington, New Jersey, US",US,1529,58,0
+"Burnet, Texas, US",US,8,0,0
+"Burt, Nebraska, US",US,1,0,0
+"Butler, Alabama, US",US,14,0,0
+"Butler, Iowa, US",US,1,0,0
+"Butler, Kansas, US",US,12,0,0
+"Butler, Kentucky, US",US,71,2,0
+"Butler, Missouri, US",US,23,0,0
+"Butler, Nebraska, US",US,1,0,0
+"Butler, Ohio, US",US,164,2,0
+"Butler, Pennsylvania, US",US,156,5,0
+"Butte, California, US",US,16,0,0
+"Butte, South Dakota, US",US,0,0,0
+"Butts, Georgia, US",US,43,0,0
+"Cabarrus, North Carolina, US",US,204,4,0
+"Cabell, West Virginia, US",US,34,0,0
+"Caddo, Louisiana, US",US,1191,70,0
+"Caddo, Oklahoma, US",US,49,2,0
+"Calaveras, California, US",US,12,0,0
+"Calcasieu, Louisiana, US",US,304,19,0
+"Caldwell, Kentucky, US",US,11,0,0
+"Caldwell, Louisiana, US",US,15,0,0
+"Caldwell, Missouri, US",US,2,0,0
+"Caldwell, North Carolina, US",US,23,0,0
+"Caldwell, Texas, US",US,7,0,0
+"Caledonia, Vermont, US",US,12,0,0
+"Calhoun, Alabama, US",US,69,2,0
+"Calhoun, Florida, US",US,6,0,0
+"Calhoun, Georgia, US",US,55,2,0
+"Calhoun, Illinois, US",US,1,0,0
+"Calhoun, Michigan, US",US,136,5,0
+"Calhoun, Mississippi, US",US,37,2,0
+"Calhoun, South Carolina, US",US,5,1,0
+"Calhoun, Texas, US",US,20,1,0
+"Callahan, Texas, US",US,1,0,0
+"Callaway, Missouri, US",US,20,1,0
+"Calloway, Kentucky, US",US,20,1,0
+"Calumet, Wisconsin, US",US,6,0,0
+"Calvert, Maryland, US",US,110,3,0
+"Camas, Idaho, US",US,1,0,0
+"Cambria, Pennsylvania, US",US,18,1,0
+"Camden, Georgia, US",US,28,0,0
+"Camden, Missouri, US",US,31,1,0
+"Camden, New Jersey, US",US,2057,74,0
+"Cameron, Louisiana, US",US,3,0,0
+"Cameron, Pennsylvania, US",US,1,0,0
+"Cameron, Texas, US",US,292,6,0
+"Camp, Texas, US",US,6,0,0
+"Campbell, Kentucky, US",US,50,6,0
+"Campbell, Tennessee, US",US,11,1,0
+"Campbell, Virginia, US",US,9,0,0
+"Campbell, Wyoming, US",US,13,0,0
+"Canadian, Oklahoma, US",US,70,3,0
+"Candler, Georgia, US",US,5,0,0
+"Cannon, Tennessee, US",US,8,0,0
+"Canyon, Idaho, US",US,182,5,0
+"Cape Girardeau, Missouri, US",US,35,1,0
+"Cape May, New Jersey, US",US,192,14,0
+"Carbon, Montana, US",US,6,0,0
+"Carbon, Pennsylvania, US",US,132,8,0
+"Carbon, Wyoming, US",US,4,0,0
+"Caribou, Idaho, US",US,1,0,0
+"Carlton, Minnesota, US",US,36,0,0
+"Caroline, Maryland, US",US,33,0,0
+"Caroline, Virginia, US",US,13,0,0
+"Carroll, Arkansas, US",US,2,0,0
+"Carroll, Georgia, US",US,272,9,0
+"Carroll, Illinois, US",US,5,1,0
+"Carroll, Indiana, US",US,5,1,0
+"Carroll, Iowa, US",US,1,0,0
+"Carroll, Kentucky, US",US,2,0,0
+"Carroll, Maryland, US",US,285,28,0
+"Carroll, Mississippi, US",US,13,1,0
+"Carroll, New Hampshire, US",US,30,0,0
+"Carroll, Ohio, US",US,15,0,0
+"Carroll, Tennessee, US",US,15,0,0
+"Carroll, Virginia, US",US,3,0,0
+"Carson, Texas, US",US,1,0,0
+"Carson City, Nevada, US",US,28,0,0
+"Carter, Kentucky, US",US,4,0,0
+"Carter, Missouri, US",US,2,1,0
+"Carter, Oklahoma, US",US,1,0,0
+"Carter, Tennessee, US",US,4,1,0
+"Carteret, North Carolina, US",US,22,2,0
+"Carver, Minnesota, US",US,14,0,0
+"Cascade, Montana, US",US,12,1,0
+"Casey, Kentucky, US",US,1,0,0
+"Cass, Indiana, US",US,70,1,0
+"Cass, Iowa, US",US,1,0,0
+"Cass, Michigan, US",US,21,1,0
+"Cass, Minnesota, US",US,4,0,0
+"Cass, Missouri, US",US,47,6,0
+"Cass, Nebraska, US",US,5,0,0
+"Cass, North Dakota, US",US,210,2,0
+"Cass, Texas, US",US,11,0,0
+"Cassia, Idaho, US",US,9,1,0
+"Castro, Texas, US",US,10,1,0
+"Caswell, North Carolina, US",US,7,0,0
+"Catahoula, Louisiana, US",US,23,1,0
+"Catawba, North Carolina, US",US,42,1,0
+"Catoosa, Georgia, US",US,19,0,0
+"Catron, New Mexico, US",US,1,0,0
+"Cattaraugus, New York, US",US,34,0,0
+"Cayuga, New York, US",US,35,1,0
+"Cecil, Maryland, US",US,128,3,0
+"Cedar, Iowa, US",US,26,0,0
+"Cedar, Missouri, US",US,5,0,0
+"Cedar, Nebraska, US",US,0,0,0
+"Central Utah, Utah, US",US,15,0,0
+"Centre, Pennsylvania, US",US,72,1,0
+"Cerro Gordo, Iowa, US",US,14,0,0
+"Chaffee, Colorado, US",US,34,4,0
+"Chambers, Alabama, US",US,232,13,0
+"Chambers, Texas, US",US,35,0,0
+"Champaign, Illinois, US",US,91,4,0
+"Champaign, Ohio, US",US,7,1,0
+"Chariton, Missouri, US",US,4,0,0
+"Charles, Maryland, US",US,353,17,0
+"Charles City, Virginia, US",US,11,0,0
+"Charles Mix, South Dakota, US",US,4,0,0
+"Charleston, South Carolina, US",US,387,3,0
+"Charlevoix, Michigan, US",US,11,1,0
+"Charlotte, Florida, US",US,129,9,0
+"Charlotte, Virginia, US",US,8,0,0
+"Charlottesville, Virginia, US",US,40,1,0
+"Charlton, Georgia, US",US,6,0,0
+"Chase, Kansas, US",US,1,0,0
+"Chatham, Georgia, US",US,174,5,0
+"Chatham, North Carolina, US",US,118,1,0
+"Chattahoochee, Georgia, US",US,6,0,0
+"Chattooga, Georgia, US",US,8,1,0
+"Chautauqua, Kansas, US",US,3,0,0
+"Chautauqua, New York, US",US,22,3,0
+"Chaves, New Mexico, US",US,21,0,0
+"Cheatham, Tennessee, US",US,22,0,0
+"Cheboygan, Michigan, US",US,13,1,0
+"Chelan, Washington, US",US,67,6,0
+"Chemung, New York, US",US,72,1,0
+"Chenango, New York, US",US,78,0,0
+"Cherokee, Alabama, US",US,12,0,0
+"Cherokee, Georgia, US",US,285,8,0
+"Cherokee, Kansas, US",US,7,0,0
+"Cherokee, North Carolina, US",US,15,1,0
+"Cherokee, Oklahoma, US",US,23,1,0
+"Cherokee, South Carolina, US",US,13,0,0
+"Cherokee, Texas, US",US,9,1,0
+"Cherry, Nebraska, US",US,1,0,0
+"Chesapeake, Virginia, US",US,158,4,0
+"Cheshire, New Hampshire, US",US,29,0,0
+"Chester, Pennsylvania, US",US,835,42,0
+"Chester, South Carolina, US",US,24,0,0
+"Chester, Tennessee, US",US,8,0,0
+"Chesterfield, South Carolina, US",US,36,0,0
+"Chesterfield, Virginia, US",US,311,0,0
+"Cheyenne, Nebraska, US",US,4,0,0
+"Chickasaw, Iowa, US",US,3,0,0
+"Chickasaw, Mississippi, US",US,41,2,0
+"Chicot, Arkansas, US",US,7,0,0
+"Childress, Texas, US",US,1,0,0
+"Chilton, Alabama, US",US,41,0,0
+"Chippewa, Michigan, US",US,1,0,0
+"Chippewa, Wisconsin, US",US,20,0,0
+"Chisago, Minnesota, US",US,6,1,0
+"Chittenden, Vermont, US",US,362,23,0
+"Choctaw, Alabama, US",US,14,0,0
+"Choctaw, Mississippi, US",US,11,1,0
+"Choctaw, Oklahoma, US",US,3,0,0
+"Chowan, North Carolina, US",US,6,0,0
+"Christian, Illinois, US",US,21,4,0
+"Christian, Kentucky, US",US,76,3,0
+"Christian, Missouri, US",US,19,0,0
+"Churchill, Nevada, US",US,3,0,0
+"Cibola, New Mexico, US",US,31,2,0
+"Citrus, Florida, US",US,76,8,0
+"Clackamas, Oregon, US",US,156,5,0
+"Claiborne, Louisiana, US",US,45,5,0
+"Claiborne, Mississippi, US",US,10,0,0
+"Claiborne, Tennessee, US",US,5,0,0
+"Clallam, Washington, US",US,15,0,0
+"Clare, Michigan, US",US,7,1,0
+"Clarendon, South Carolina, US",US,106,6,0
+"Clarion, Pennsylvania, US",US,17,1,0
+"Clark, Arkansas, US",US,27,0,0
+"Clark, Illinois, US",US,4,0,0
+"Clark, Indiana, US",US,151,11,0
+"Clark, Kentucky, US",US,18,0,0
+"Clark, Missouri, US",US,1,0,0
+"Clark, Nevada, US",US,2803,137,0
+"Clark, Ohio, US",US,25,0,0
+"Clark, South Dakota, US",US,1,0,0
+"Clark, Washington, US",US,261,16,0
+"Clark, Wisconsin, US",US,16,0,0
+"Clarke, Alabama, US",US,24,0,0
+"Clarke, Georgia, US",US,95,13,0
+"Clarke, Iowa, US",US,2,0,0
+"Clarke, Mississippi, US",US,25,2,0
+"Clarke, Virginia, US",US,6,0,0
+"Clatsop, Oregon, US",US,6,0,0
+"Clay, Alabama, US",US,18,0,0
+"Clay, Arkansas, US",US,1,0,0
+"Clay, Florida, US",US,236,11,0
+"Clay, Georgia, US",US,18,2,0
+"Clay, Illinois, US",US,1,0,0
+"Clay, Indiana, US",US,18,0,0
+"Clay, Iowa, US",US,3,0,0
+"Clay, Kansas, US",US,2,0,0
+"Clay, Kentucky, US",US,1,0,0
+"Clay, Minnesota, US",US,53,2,0
+"Clay, Mississippi, US",US,24,1,0
+"Clay, Missouri, US",US,56,1,0
+"Clay, Nebraska, US",US,4,0,0
+"Clay, North Carolina, US",US,5,0,0
+"Clay, South Dakota, US",US,5,0,0
+"Clay, Tennessee, US",US,5,0,0
+"Clay, Texas, US",US,3,0,0
+"Clayton, Georgia, US",US,502,17,0
+"Clayton, Iowa, US",US,6,1,0
+"Clear Creek, Colorado, US",US,11,0,0
+"Clearfield, Pennsylvania, US",US,11,0,0
+"Clearwater, Minnesota, US",US,3,0,0
+"Cleburne, Alabama, US",US,11,1,0
+"Cleburne, Arkansas, US",US,66,4,0
+"Clermont, Ohio, US",US,71,1,0
+"Cleveland, Arkansas, US",US,8,0,0
+"Cleveland, North Carolina, US",US,42,2,0
+"Cleveland, Oklahoma, US",US,292,21,0
+"Clinch, Georgia, US",US,7,0,0
+"Clinton, Illinois, US",US,45,0,0
+"Clinton, Indiana, US",US,17,1,0
+"Clinton, Iowa, US",US,41,0,0
+"Clinton, Kentucky, US",US,2,0,0
+"Clinton, Michigan, US",US,97,6,0
+"Clinton, Missouri, US",US,11,0,0
+"Clinton, New York, US",US,46,3,0
+"Clinton, Ohio, US",US,26,0,0
+"Clinton, Pennsylvania, US",US,11,0,0
+"Cloud, Kansas, US",US,3,0,0
+"Coahoma, Mississippi, US",US,46,2,0
+"Cobb, Georgia, US",US,1074,51,0
+"Cochise, Arizona, US",US,24,0,0
+"Cocke, Tennessee, US",US,11,0,0
+"Coconino, Arizona, US",US,307,26,0
+"Codington, South Dakota, US",US,13,0,0
+"Coffee, Alabama, US",US,59,0,0
+"Coffee, Georgia, US",US,75,4,0
+"Coffee, Tennessee, US",US,20,0,0
+"Coffey, Kansas, US",US,41,6,0
+"Colbert, Alabama, US",US,15,1,0
+"Cole, Missouri, US",US,45,1,0
+"Coles, Illinois, US",US,16,0,0
+"Colfax, Nebraska, US",US,4,0,0
+"Colfax, New Mexico, US",US,4,0,0
+"Colleton, South Carolina, US",US,22,1,0
+"Collier, Florida, US",US,455,8,0
+"Collin, Texas, US",US,509,13,0
+"Colonial Heights, Virginia, US",US,23,0,0
+"Colorado, Texas, US",US,8,0,0
+"Colquitt, Georgia, US",US,117,5,0
+"Columbia, Arkansas, US",US,5,0,0
+"Columbia, Florida, US",US,39,0,0
+"Columbia, Georgia, US",US,100,1,0
+"Columbia, New York, US",US,96,11,0
+"Columbia, Oregon, US",US,14,0,0
+"Columbia, Pennsylvania, US",US,196,6,0
+"Columbia, Washington, US",US,1,0,0
+"Columbia, Wisconsin, US",US,26,1,0
+"Columbiana, Ohio, US",US,154,13,0
+"Columbus, North Carolina, US",US,55,3,0
+"Colusa, California, US",US,3,0,0
+"Comal, Texas, US",US,37,6,0
+"Comanche, Oklahoma, US",US,67,0,0
+"Comanche, Texas, US",US,4,0,0
+"Concho, Texas, US",US,1,0,0
+"Concordia, Louisiana, US",US,24,2,0
+"Conecuh, Alabama, US",US,10,0,0
+"Contra Costa, California, US",US,673,20,0
+"Converse, Wyoming, US",US,9,0,0
+"Conway, Arkansas, US",US,4,1,0
+"Cook, Georgia, US",US,11,1,0
+"Cook, Illinois, US",US,20395,877,0
+"Cooke, Texas, US",US,4,0,0
+"Cooper, Missouri, US",US,4,0,0
+"Coos, New Hampshire, US",US,2,0,0
+"Coos, Oregon, US",US,1,0,0
+"Coosa, Alabama, US",US,21,1,0
+"Copiah, Mississippi, US",US,45,1,0
+"Corson, South Dakota, US",US,1,0,0
+"Cortland, New York, US",US,25,0,0
+"Coryell, Texas, US",US,74,1,0
+"Coshocton, Ohio, US",US,16,0,0
+"Costilla, Colorado, US",US,3,0,0
+"Cotton, Oklahoma, US",US,5,0,0
+"Cottonwood, Minnesota, US",US,6,0,0
+"Covington, Alabama, US",US,21,1,0
+"Covington, Mississippi, US",US,29,0,0
+"Covington, Virginia, US",US,1,0,0
+"Coweta, Georgia, US",US,158,3,0
+"Cowley, Kansas, US",US,0,1,0
+"Cowlitz, Washington, US",US,29,0,0
+"Craig, Oklahoma, US",US,8,0,0
+"Craig, Virginia, US",US,2,0,0
+"Craighead, Arkansas, US",US,42,1,0
+"Crane, Texas, US",US,2,0,0
+"Craven, North Carolina, US",US,32,2,0
+"Crawford, Arkansas, US",US,4,0,0
+"Crawford, Georgia, US",US,13,0,0
+"Crawford, Illinois, US",US,4,0,0
+"Crawford, Indiana, US",US,12,0,0
+"Crawford, Iowa, US",US,5,1,0
+"Crawford, Kansas, US",US,5,1,0
+"Crawford, Michigan, US",US,27,2,0
+"Crawford, Missouri, US",US,6,0,0
+"Crawford, Ohio, US",US,41,0,0
+"Crawford, Pennsylvania, US",US,16,0,0
+"Crawford, Wisconsin, US",US,3,0,0
+"Creek, Oklahoma, US",US,64,4,0
+"Crenshaw, Alabama, US",US,6,0,0
+"Crisp, Georgia, US",US,116,2,0
+"Crittenden, Arkansas, US",US,135,4,0
+"Crittenden, Kentucky, US",US,3,0,0
+"Crockett, Tennessee, US",US,5,0,0
+"Crook, Oregon, US",US,1,0,0
+"Crook, Wyoming, US",US,4,0,0
+"Crosby, Texas, US",US,0,1,0
+"Cross, Arkansas, US",US,8,0,0
+"Crow Wing, Minnesota, US",US,19,0,0
+"Crowley, Colorado, US",US,1,1,0
+"Cullman, Alabama, US",US,42,0,0
+"Culpeper, Virginia, US",US,43,0,0
+"Cumberland, Illinois, US",US,2,0,0
+"Cumberland, Kentucky, US",US,3,0,0
+"Cumberland, Maine, US",US,362,16,0
+"Cumberland, New Jersey, US",US,304,4,0
+"Cumberland, North Carolina, US",US,107,6,0
+"Cumberland, Pennsylvania, US",US,178,4,0
+"Cumberland, Tennessee, US",US,57,0,0
+"Cumberland, Virginia, US",US,10,0,0
+"Cuming, Nebraska, US",US,2,0,0
+"Currituck, North Carolina, US",US,3,0,0
+"Curry, New Mexico, US",US,10,0,0
+"Curry, Oregon, US",US,4,0,0
+"Custer, Colorado, US",US,2,0,0
+"Custer, Idaho, US",US,2,0,0
+"Custer, Nebraska, US",US,20,0,0
+"Custer, Oklahoma, US",US,9,0,0
+"Cuyahoga, Ohio, US",US,1413,53,0
+"Dade, Georgia, US",US,7,1,0
+"Dakota, Minnesota, US",US,110,6,0
+"Dakota, Nebraska, US",US,29,0,0
+"Dale, Alabama, US",US,20,0,0
+"Dallam, Texas, US",US,3,0,0
+"Dallas, Alabama, US",US,23,2,0
+"Dallas, Arkansas, US",US,1,0,0
+"Dallas, Iowa, US",US,45,0,0
+"Dallas, Missouri, US",US,2,0,0
+"Dallas, Texas, US",US,2368,60,0
+"Dane, Wisconsin, US",US,342,19,0
+"Danville, Virginia, US",US,27,0,0
+"Dare, North Carolina, US",US,14,1,0
+"Darke, Ohio, US",US,46,10,0
+"Darlington, South Carolina, US",US,64,0,0
+"Dauphin, Pennsylvania, US",US,359,9,0
+"Davidson, North Carolina, US",US,92,2,0
+"Davidson, Tennessee, US",US,1619,19,0
+"Davie, North Carolina, US",US,21,2,0
+"Daviess, Indiana, US",US,31,3,0
+"Daviess, Kentucky, US",US,122,3,0
+"Daviess, Missouri, US",US,2,0,0
+"Davis, Utah, US",US,234,2,0
+"Davison, South Dakota, US",US,3,0,0
+"Dawson, Georgia, US",US,43,1,0
+"Dawson, Nebraska, US",US,124,0,0
+"Dawson, Texas, US",US,11,1,0
+"Day, South Dakota, US",US,0,0,0
+"De Soto, Louisiana, US",US,148,8,0
+"De Witt, Illinois, US",US,1,0,0
+"DeKalb, Alabama, US",US,40,2,0
+"DeKalb, Georgia, US",US,1428,24,0
+"DeKalb, Illinois, US",US,54,1,0
+"DeKalb, Indiana, US",US,12,1,0
+"DeKalb, Missouri, US",US,3,0,0
+"DeKalb, Tennessee, US",US,10,0,0
+"DeSoto, Florida, US",US,20,4,0
+"DeSoto, Mississippi, US",US,231,3,0
+"DeWitt, Texas, US",US,13,0,0
+"Deaf Smith, Texas, US",US,12,0,0
+"Dearborn, Indiana, US",US,63,5,0
+"Decatur, Georgia, US",US,60,1,0
+"Decatur, Indiana, US",US,150,18,0
+"Decatur, Tennessee, US",US,4,0,0
+"Deer Lodge, Montana, US",US,3,0,0
+"Defiance, Ohio, US",US,14,0,0
+"Del Norte, California, US",US,2,0,0
+"Delaware, Indiana, US",US,104,6,0
+"Delaware, Iowa, US",US,2,0,0
+"Delaware, New York, US",US,45,4,0
+"Delaware, Ohio, US",US,120,3,0
+"Delaware, Oklahoma, US",US,78,5,0
+"Delaware, Pennsylvania, US",US,2369,91,0
+"Delta, Colorado, US",US,21,1,0
+"Delta, Michigan, US",US,11,1,0
+"Delta, Texas, US",US,1,0,0
+"Denton, Texas, US",US,576,16,0
+"Denver, Colorado, US",US,1709,75,0
+"Des Moines, Iowa, US",US,11,0,0
+"Deschutes, Oregon, US",US,64,0,0
+"Desha, Arkansas, US",US,7,0,0
+"Deuel, South Dakota, US",US,1,0,0
+"Dewey, Oklahoma, US",US,2,0,0
+"Dickens, Texas, US",US,1,0,0
+"Dickenson, Virginia, US",US,0,0,0
+"Dickinson, Iowa, US",US,1,0,0
+"Dickinson, Kansas, US",US,1,0,0
+"Dickinson, Michigan, US",US,1,2,0
+"Dickson, Tennessee, US",US,45,0,0
+"Dillon, South Carolina, US",US,20,0,0
+"Dimmit, Texas, US",US,1,0,0
+"Dinwiddie, Virginia, US",US,7,0,0
+"District of Columbia, District of Columbia, US",US,2697,96,0
+"Divide, North Dakota, US",US,1,0,0
+"Dixie, Florida, US",US,3,0,0
+"Dodge, Georgia, US",US,19,0,0
+"Dodge, Minnesota, US",US,18,0,0
+"Dodge, Nebraska, US",US,16,0,0
+"Dodge, Wisconsin, US",US,18,1,0
+"Dona Ana, New Mexico, US",US,68,1,0
+"Doniphan, Kansas, US",US,1,0,0
+"Donley, Texas, US",US,23,0,0
+"Dooly, Georgia, US",US,66,4,0
+"Door, Wisconsin, US",US,8,1,0
+"Dorchester, Maryland, US",US,20,1,0
+"Dorchester, South Carolina, US",US,87,1,0
+"Dougherty, Georgia, US",US,1328,94,0
+"Douglas, Colorado, US",US,352,16,0
+"Douglas, Georgia, US",US,224,6,0
+"Douglas, Illinois, US",US,12,0,0
+"Douglas, Kansas, US",US,43,0,0
+"Douglas, Minnesota, US",US,2,0,0
+"Douglas, Nebraska, US",US,272,8,0
+"Douglas, Nevada, US",US,15,0,0
+"Douglas, Oregon, US",US,22,0,0
+"Douglas, Washington, US",US,33,1,0
+"Douglas, Wisconsin, US",US,8,0,0
+"Drew, Arkansas, US",US,5,1,0
+"DuPage, Illinois, US",US,1610,85,0
+"Dubois, Indiana, US",US,16,0,0
+"Dubuque, Iowa, US",US,43,1,0
+"Dukes and Nantucket, Massachusetts, US",US,22,1,0
+"Dunklin, Missouri, US",US,17,2,0
+"Dunn, North Dakota, US",US,9,0,0
+"Dunn, Wisconsin, US",US,9,0,0
+"Duplin, North Carolina, US",US,24,0,0
+"Durham, North Carolina, US",US,404,5,0
+"Dutchess, New York, US",US,2212,28,0
+"Duval, Florida, US",US,839,15,0
+"Duval, Texas, US",US,1,0,0
+"Dyer, Tennessee, US",US,28,0,0
+"Eagle, Colorado, US",US,478,7,0
+"Early, Georgia, US",US,161,8,0
+"East Baton Rouge, Louisiana, US",US,1440,72,0
+"East Carroll, Louisiana, US",US,1,0,0
+"East Feliciana, Louisiana, US",US,86,7,0
+"Eastland, Texas, US",US,3,0,0
+"Eaton, Michigan, US",US,83,5,0
+"Eau Claire, Wisconsin, US",US,22,0,0
+"Echols, Georgia, US",US,4,0,0
+"Ector, Texas, US",US,54,4,0
+"Eddy, New Mexico, US",US,8,1,0
+"Eddy, North Dakota, US",US,1,0,0
+"Edgecombe, North Carolina, US",US,57,1,0
+"Edgefield, South Carolina, US",US,12,0,0
+"Edmonson, Kentucky, US",US,7,0,0
+"Effingham, Georgia, US",US,25,1,0
+"Effingham, Illinois, US",US,3,1,0
+"El Dorado, California, US",US,36,0,0
+"El Paso, Colorado, US",US,682,49,0
+"El Paso, Texas, US",US,497,8,0
+"Elbert, Colorado, US",US,22,1,0
+"Elbert, Georgia, US",US,7,0,0
+"Elk, Pennsylvania, US",US,2,0,0
+"Elkhart, Indiana, US",US,149,3,0
+"Elko, Nevada, US",US,11,1,0
+"Ellis, Kansas, US",US,8,0,0
+"Ellis, Texas, US",US,80,3,0
+"Elmore, Alabama, US",US,62,1,0
+"Elmore, Idaho, US",US,22,0,0
+"Emanuel, Georgia, US",US,12,0,0
+"Emmet, Michigan, US",US,19,2,0
+"Emmons, North Dakota, US",US,0,1,0
+"Emporia, Virginia, US",US,7,0,0
+"Erath, Texas, US",US,12,1,0
+"Erie, New York, US",US,2057,135,0
+"Erie, Ohio, US",US,31,2,0
+"Erie, Pennsylvania, US",US,58,0,0
+"Escambia, Alabama, US",US,14,0,0
+"Escambia, Florida, US",US,301,8,0
+"Essex, Massachusetts, US",US,4944,209,0
+"Essex, New Jersey, US",US,9564,740,0
+"Essex, New York, US",US,18,0,0
+"Essex, Vermont, US",US,2,0,0
+"Essex, Virginia, US",US,2,0,0
+"Etowah, Alabama, US",US,91,7,0
+"Evangeline, Louisiana, US",US,43,0,0
+"Evans, Georgia, US",US,2,0,0
+"Fairbanks North Star, Alaska, US",US,78,1,0
+"Fairfax, Virginia, US",US,1772,37,0
+"Fairfax City, Virginia, US",US,11,0,0
+"Fairfield, Connecticut, US",US,6987,447,0
+"Fairfield, Ohio, US",US,95,2,0
+"Fairfield, South Carolina, US",US,25,0,0
+"Fall River, South Dakota, US",US,1,0,0
+"Falls, Texas, US",US,1,0,0
+"Falls Church, Virginia, US",US,0,0,0
+"Fannin, Georgia, US",US,16,0,0
+"Fannin, Texas, US",US,7,0,0
+"Faribault, Minnesota, US",US,4,0,0
+"Faulk, South Dakota, US",US,1,0,0
+"Faulkner, Arkansas, US",US,60,2,0
+"Fauquier, Virginia, US",US,39,0,0
+"Fayette, Alabama, US",US,4,0,0
+"Fayette, Georgia, US",US,134,5,0
+"Fayette, Illinois, US",US,14,1,0
+"Fayette, Indiana, US",US,18,4,0
+"Fayette, Iowa, US",US,6,0,0
+"Fayette, Kentucky, US",US,212,7,0
+"Fayette, Ohio, US",US,13,0,0
+"Fayette, Pennsylvania, US",US,63,3,0
+"Fayette, Tennessee, US",US,44,1,0
+"Fayette, Texas, US",US,15,0,0
+"Fayette, West Virginia, US",US,5,0,0
+"Federal Correctional Institution (FCI), Michigan, US",US,51,0,0
+"Fentress, Tennessee, US",US,4,0,0
+"Ferry, Washington, US",US,1,0,0
+"Fillmore, Minnesota, US",US,10,0,0
+"Finney, Kansas, US",US,34,1,0
+"Flagler, Florida, US",US,73,2,0
+"Flathead, Montana, US",US,36,1,0
+"Fleming, Kentucky, US",US,2,0,0
+"Florence, South Carolina, US",US,142,8,0
+"Florence, Wisconsin, US",US,2,0,0
+"Floyd, Georgia, US",US,114,8,0
+"Floyd, Indiana, US",US,135,7,0
+"Floyd, Kentucky, US",US,4,0,0
+"Floyd, Texas, US",US,2,0,0
+"Floyd, Virginia, US",US,1,0,0
+"Fluvanna, Virginia, US",US,66,0,0
+"Fond du Lac, Wisconsin, US",US,59,3,0
+"Ford, Illinois, US",US,4,1,0
+"Ford, Kansas, US",US,127,0,0
+"Forest, Pennsylvania, US",US,7,0,0
+"Forrest, Mississippi, US",US,140,4,0
+"Forsyth, Georgia, US",US,193,7,0
+"Forsyth, North Carolina, US",US,121,5,0
+"Fort Bend, Texas, US",US,738,17,0
+"Foster, North Dakota, US",US,1,0,0
+"Fountain, Indiana, US",US,4,2,0
+"Franklin, Alabama, US",US,17,0,0
+"Franklin, Arkansas, US",US,1,0,0
+"Franklin, Florida, US",US,2,0,0
+"Franklin, Georgia, US",US,10,0,0
+"Franklin, Illinois, US",US,5,0,0
+"Franklin, Indiana, US",US,82,7,0
+"Franklin, Iowa, US",US,1,0,0
+"Franklin, Kansas, US",US,12,0,0
+"Franklin, Kentucky, US",US,13,0,0
+"Franklin, Louisiana, US",US,79,2,0
+"Franklin, Maine, US",US,12,0,0
+"Franklin, Massachusetts, US",US,155,26,0
+"Franklin, Mississippi, US",US,16,0,0
+"Franklin, Missouri, US",US,91,7,0
+"Franklin, Nebraska, US",US,3,0,0
+"Franklin, New York, US",US,13,0,0
+"Franklin, North Carolina, US",US,61,8,0
+"Franklin, Ohio, US",US,1484,29,0
+"Franklin, Pennsylvania, US",US,111,0,0
+"Franklin, Tennessee, US",US,25,1,0
+"Franklin, Texas, US",US,1,0,0
+"Franklin, Vermont, US",US,88,3,0
+"Franklin, Virginia, US",US,15,0,0
+"Franklin, Washington, US",US,187,4,0
+"Franklin City, Virginia, US",US,15,0,0
+"Frederick, Maryland, US",US,561,30,0
+"Frederick, Virginia, US",US,81,0,0
+"Fredericksburg, Virginia, US",US,17,0,0
+"Freeborn, Minnesota, US",US,34,0,0
+"Freestone, Texas, US",US,3,0,0
+"Fremont, Colorado, US",US,10,0,0
+"Fremont, Idaho, US",US,2,0,0
+"Fremont, Wyoming, US",US,49,0,0
+"Fresno, California, US",US,308,7,0
+"Frio, Texas, US",US,1,0,0
+"Fulton, Georgia, US",US,2035,75,0
+"Fulton, Illinois, US",US,1,0,0
+"Fulton, Indiana, US",US,6,0,0
+"Fulton, Kentucky, US",US,1,0,0
+"Fulton, New York, US",US,27,0,0
+"Fulton, Ohio, US",US,17,0,0
+"Fulton, Pennsylvania, US",US,2,0,0
+"Furnas, Nebraska, US",US,2,0,0
+"Gadsden, Florida, US",US,51,0,0
+"Gage, Nebraska, US",US,27,1,0
+"Gaines, Texas, US",US,2,0,0
+"Galax, Virginia, US",US,1,0,0
+"Gallatin, Illinois, US",US,2,0,0
+"Gallatin, Kentucky, US",US,1,0,0
+"Gallatin, Montana, US",US,143,0,0
+"Gallia, Ohio, US",US,5,1,0
+"Galveston, Texas, US",US,435,15,0
+"Garfield, Colorado, US",US,68,2,0
+"Garfield, Oklahoma, US",US,10,1,0
+"Garland, Arkansas, US",US,107,0,0
+"Garrard, Kentucky, US",US,1,0,0
+"Garrett, Maryland, US",US,4,0,0
+"Garvin, Oklahoma, US",US,10,0,0
+"Gasconade, Missouri, US",US,2,0,0
+"Gaston, North Carolina, US",US,108,3,0
+"Gates, North Carolina, US",US,4,0,0
+"Geary, Kansas, US",US,9,0,0
+"Geauga, Ohio, US",US,96,4,0
+"Gem, Idaho, US",US,10,0,0
+"Genesee, Michigan, US",US,1125,115,0
+"Genesee, New York, US",US,115,2,0
+"Geneva, Alabama, US",US,4,0,0
+"Gentry, Missouri, US",US,1,0,0
+"George, Mississippi, US",US,9,1,0
+"Georgetown, South Carolina, US",US,31,2,0
+"Gibson, Indiana, US",US,5,0,0
+"Gibson, Tennessee, US",US,31,0,0
+"Gila, Arizona, US",US,7,0,0
+"Gilchrist, Florida, US",US,4,0,0
+"Giles, Tennessee, US",US,5,0,0
+"Giles, Virginia, US",US,4,0,0
+"Gillespie, Texas, US",US,1,0,0
+"Gilmer, Georgia, US",US,11,0,0
+"Gilpin, Colorado, US",US,1,0,0
+"Glacier, Montana, US",US,4,0,0
+"Glades, Florida, US",US,4,1,0
+"Gladwin, Michigan, US",US,9,0,0
+"Glenn, California, US",US,4,0,0
+"Gloucester, New Jersey, US",US,713,24,0
+"Gloucester, Virginia, US",US,21,0,0
+"Glynn, Georgia, US",US,49,0,0
+"Gogebic, Michigan, US",US,3,1,0
+"Golden Valley, Montana, US",US,3,0,0
+"Goliad, Texas, US",US,5,0,0
+"Gonzales, Texas, US",US,2,0,0
+"Goochland, Virginia, US",US,55,0,0
+"Goodhue, Minnesota, US",US,19,0,0
+"Gooding, Idaho, US",US,8,0,0
+"Gordon, Georgia, US",US,59,5,0
+"Goshen, Wyoming, US",US,3,0,0
+"Gosper, Nebraska, US",US,5,0,0
+"Gove, Kansas, US",US,1,0,0
+"Grady, Georgia, US",US,30,1,0
+"Grady, Oklahoma, US",US,19,1,0
+"Grafton, New Hampshire, US",US,45,0,0
+"Graham, Arizona, US",US,2,0,0
+"Grainger, Tennessee, US",US,4,0,0
+"Grand, Colorado, US",US,4,0,0
+"Grand Forks, North Dakota, US",US,133,0,0
+"Grand Isle, Vermont, US",US,3,0,0
+"Grand Traverse, Michigan, US",US,14,4,0
+"Grant, Arkansas, US",US,11,0,0
+"Grant, Indiana, US",US,72,3,0
+"Grant, Kentucky, US",US,15,1,0
+"Grant, Louisiana, US",US,12,0,0
+"Grant, New Mexico, US",US,13,0,0
+"Grant, North Dakota, US",US,1,0,0
+"Grant, Oklahoma, US",US,2,0,0
+"Grant, Oregon, US",US,1,0,0
+"Grant, Washington, US",US,141,2,0
+"Grant, West Virginia, US",US,1,0,0
+"Grant, Wisconsin, US",US,16,2,0
+"Granville, North Carolina, US",US,105,5,0
+"Gratiot, Michigan, US",US,7,1,0
+"Graves, Kentucky, US",US,49,2,0
+"Gray, Kansas, US",US,1,0,0
+"Gray, Texas, US",US,17,0,0
+"Grays Harbor, Washington, US",US,12,0,0
+"Grayson, Kentucky, US",US,14,0,0
+"Grayson, Texas, US",US,19,0,0
+"Grayson, Virginia, US",US,0,0,0
+"Green, Kentucky, US",US,1,0,0
+"Green, Wisconsin, US",US,9,0,0
+"Green Lake, Wisconsin, US",US,1,0,0
+"Greenbrier, West Virginia, US",US,3,0,0
+"Greene, Alabama, US",US,29,0,0
+"Greene, Arkansas, US",US,8,0,0
+"Greene, Georgia, US",US,42,1,0
+"Greene, Illinois, US",US,1,0,0
+"Greene, Indiana, US",US,39,3,0
+"Greene, Iowa, US",US,1,0,0
+"Greene, Mississippi, US",US,3,0,0
+"Greene, Missouri, US",US,82,8,0
+"Greene, New York, US",US,85,0,0
+"Greene, North Carolina, US",US,14,0,0
+"Greene, Ohio, US",US,36,2,0
+"Greene, Pennsylvania, US",US,24,0,0
+"Greene, Tennessee, US",US,28,2,0
+"Greene, Virginia, US",US,8,0,0
+"Greenlee, Arizona, US",US,2,0,0
+"Greensville, Virginia, US",US,18,0,0
+"Greenup, Kentucky, US",US,10,0,0
+"Greenville, South Carolina, US",US,481,11,0
+"Greenwood, Kansas, US",US,2,0,0
+"Greenwood, South Carolina, US",US,36,0,0
+"Greer, Oklahoma, US",US,50,5,0
+"Gregg, Texas, US",US,52,0,0
+"Grenada, Mississippi, US",US,20,0,0
+"Grimes, Texas, US",US,9,1,0
+"Grundy, Illinois, US",US,26,0,0
+"Grundy, Iowa, US",US,4,0,0
+"Grundy, Tennessee, US",US,24,1,0
+"Guadalupe, New Mexico, US",US,1,0,0
+"Guadalupe, Texas, US",US,57,0,0
+"Guernsey, Ohio, US",US,11,0,0
+"Guilford, North Carolina, US",US,163,13,0
+"Gulf, Florida, US",US,1,0,0
+"Gunnison, Colorado, US",US,111,3,0
+"Guthrie, Iowa, US",US,4,0,0
+"Gwinnett, Georgia, US",US,1061,38,0
+"Habersham, Georgia, US",US,72,2,0
+"Hale, Alabama, US",US,24,1,0
+"Hale, Texas, US",US,10,2,0
+"Halifax, North Carolina, US",US,31,1,0
+"Halifax, Virginia, US",US,8,0,0
+"Hall, Georgia, US",US,615,6,0
+"Hall, Nebraska, US",US,453,4,0
+"Hamblen, Tennessee, US",US,7,1,0
+"Hamilton, Florida, US",US,3,0,0
+"Hamilton, Illinois, US",US,1,0,0
+"Hamilton, Indiana, US",US,548,35,0
+"Hamilton, Iowa, US",US,2,0,0
+"Hamilton, Kansas, US",US,1,0,0
+"Hamilton, Nebraska, US",US,19,0,0
+"Hamilton, New York, US",US,3,0,0
+"Hamilton, Ohio, US",US,685,33,0
+"Hamilton, Tennessee, US",US,104,12,0
+"Hamilton, Texas, US",US,5,0,0
+"Hamlin, South Dakota, US",US,2,0,0
+"Hampden, Massachusetts, US",US,2126,211,0
+"Hampshire, Massachusetts, US",US,310,7,0
+"Hampshire, West Virginia, US",US,6,0,0
+"Hampton, South Carolina, US",US,21,0,0
+"Hampton, Virginia, US",US,82,1,0
+"Hancock, Georgia, US",US,7,0,0
+"Hancock, Illinois, US",US,3,0,0
+"Hancock, Indiana, US",US,136,7,0
+"Hancock, Iowa, US",US,3,0,0
+"Hancock, Kentucky, US",US,6,0,0
+"Hancock, Maine, US",US,6,0,0
+"Hancock, Mississippi, US",US,47,5,0
+"Hancock, Ohio, US",US,28,1,0
+"Hancock, Tennessee, US",US,0,0,0
+"Hancock, West Virginia, US",US,7,0,0
+"Hanover, Virginia, US",US,84,0,0
+"Hansford, Texas, US",US,1,0,0
+"Haralson, Georgia, US",US,19,1,0
+"Hardee, Florida, US",US,4,0,0
+"Hardeman, Tennessee, US",US,7,0,0
+"Hardin, Iowa, US",US,2,0,0
+"Hardin, Kentucky, US",US,29,0,0
+"Hardin, Ohio, US",US,17,0,0
+"Hardin, Tennessee, US",US,4,0,0
+"Hardin, Texas, US",US,73,2,0
+"Hardy, West Virginia, US",US,3,0,0
+"Harford, Maryland, US",US,204,6,0
+"Harnett, North Carolina, US",US,55,3,0
+"Harper, Oklahoma, US",US,1,0,0
+"Harris, Georgia, US",US,37,2,0
+"Harris, Texas, US",US,4748,75,0
+"Harrison, Indiana, US",US,85,2,0
+"Harrison, Iowa, US",US,13,0,0
+"Harrison, Kentucky, US",US,16,0,0
+"Harrison, Mississippi, US",US,139,5,0
+"Harrison, Missouri, US",US,6,0,0
+"Harrison, Ohio, US",US,2,0,0
+"Harrison, Texas, US",US,40,4,0
+"Harrison, West Virginia, US",US,29,1,0
+"Harrisonburg, Virginia, US",US,236,0,0
+"Hart, Georgia, US",US,6,0,0
+"Hart, Kentucky, US",US,1,0,0
+"Hartford, Connecticut, US",US,3056,295,0
+"Hartley, Texas, US",US,1,0,0
+"Harvey, Kansas, US",US,5,0,0
+"Haskell, Oklahoma, US",US,2,0,0
+"Hawaii, Hawaii, US",US,62,0,0
+"Hawkins, Tennessee, US",US,25,2,0
+"Hays, Texas, US",US,120,1,0
+"Haywood, North Carolina, US",US,5,0,0
+"Haywood, Tennessee, US",US,12,1,0
+"Heard, Georgia, US",US,7,1,0
+"Hemphill, Texas, US",US,1,0,0
+"Hempstead, Arkansas, US",US,4,1,0
+"Henderson, Illinois, US",US,2,0,0
+"Henderson, Kentucky, US",US,28,0,0
+"Henderson, North Carolina, US",US,109,11,0
+"Henderson, Tennessee, US",US,4,0,0
+"Henderson, Texas, US",US,13,0,0
+"Hendricks, Indiana, US",US,454,17,0
+"Hendry, Florida, US",US,41,0,0
+"Hennepin, Minnesota, US",US,849,75,0
+"Henrico, Virginia, US",US,522,62,0
+"Henry, Alabama, US",US,17,0,0
+"Henry, Georgia, US",US,360,7,0
+"Henry, Illinois, US",US,30,0,0
+"Henry, Indiana, US",US,30,1,0
+"Henry, Iowa, US",US,26,1,0
+"Henry, Kentucky, US",US,4,0,0
+"Henry, Missouri, US",US,5,1,0
+"Henry, Ohio, US",US,3,0,0
+"Henry, Tennessee, US",US,9,0,0
+"Henry, Virginia, US",US,10,0,0
+"Herkimer, New York, US",US,46,3,0
+"Hernando, Florida, US",US,81,3,0
+"Hertford, North Carolina, US",US,8,1,0
+"Hickman, Tennessee, US",US,2,0,0
+"Hidalgo, New Mexico, US",US,0,0,0
+"Hidalgo, Texas, US",US,252,3,0
+"Highland, Ohio, US",US,7,0,0
+"Highland, Virginia, US",US,0,0,0
+"Highlands, Florida, US",US,64,6,0
+"Hill, Montana, US",US,1,0,0
+"Hill, Texas, US",US,9,1,0
+"Hillsborough, Florida, US",US,941,19,0
+"Hillsborough, New Hampshire, US",US,579,2,0
+"Hillsdale, Michigan, US",US,79,11,0
+"Hinds, Mississippi, US",US,332,5,0
+"Hinsdale, Colorado, US",US,3,0,0
+"Hocking, Ohio, US",US,4,0,0
+"Hockley, Texas, US",US,15,1,0
+"Hoke, North Carolina, US",US,23,0,0
+"Holmes, Florida, US",US,6,0,0
+"Holmes, Mississippi, US",US,54,4,0
+"Holmes, Ohio, US",US,3,0,0
+"Holt, Missouri, US",US,1,0,0
+"Honolulu, Hawaii, US",US,379,6,0
+"Hood, Texas, US",US,14,3,0
+"Hood River, Oregon, US",US,4,0,0
+"Hopewell, Virginia, US",US,16,0,0
+"Hopkins, Kentucky, US",US,101,10,0
+"Hopkins, Texas, US",US,4,0,0
+"Horry, South Carolina, US",US,173,12,0
+"Hot Spring, Arkansas, US",US,8,0,0
+"Hot Springs, Wyoming, US",US,1,0,0
+"Houghton, Michigan, US",US,2,0,0
+"Houston, Alabama, US",US,64,2,0
+"Houston, Georgia, US",US,156,10,0
+"Houston, Minnesota, US",US,1,0,0
+"Houston, Tennessee, US",US,4,0,0
+"Houston, Texas, US",US,3,0,0
+"Howard, Arkansas, US",US,14,0,0
+"Howard, Indiana, US",US,64,4,0
+"Howard, Iowa, US",US,4,0,0
+"Howard, Maryland, US",US,503,12,0
+"Howard, Missouri, US",US,2,0,0
+"Howard, Nebraska, US",US,3,0,0
+"Howard, Texas, US",US,0,1,0
+"Howell, Missouri, US",US,5,0,0
+"Hudson, New Jersey, US",US,9874,612,0
+"Huerfano, Colorado, US",US,1,0,0
+"Hughes, South Dakota, US",US,5,0,0
+"Humboldt, California, US",US,52,0,0
+"Humboldt, Nevada, US",US,24,2,0
+"Humphreys, Mississippi, US",US,9,3,0
+"Humphreys, Tennessee, US",US,7,0,0
+"Hunt, Texas, US",US,24,2,0
+"Hunterdon, New Jersey, US",US,389,18,0
+"Huntingdon, Pennsylvania, US",US,13,0,0
+"Huntington, Indiana, US",US,5,1,0
+"Huron, Michigan, US",US,10,0,0
+"Huron, Ohio, US",US,15,1,0
+"Hutchinson, South Dakota, US",US,2,0,0
+"Hutchinson, Texas, US",US,7,0,0
+"Hyde, South Dakota, US",US,1,0,0
+"Iberia, Louisiana, US",US,176,8,0
+"Iberville, Louisiana, US",US,253,21,0
+"Idaho, Idaho, US",US,3,0,0
+"Imperial, California, US",US,152,3,0
+"Independence, Arkansas, US",US,8,0,0
+"Indian River, Florida, US",US,81,3,0
+"Indiana, Pennsylvania, US",US,47,4,0
+"Ingham, Michigan, US",US,302,6,0
+"Inyo, California, US",US,18,0,0
+"Ionia, Michigan, US",US,22,2,0
+"Iosco, Michigan, US",US,10,1,0
+"Iowa, Iowa, US",US,12,0,0
+"Iowa, Wisconsin, US",US,6,0,0
+"Iredell, North Carolina, US",US,78,3,0
+"Iron, Missouri, US",US,2,0,0
+"Iron, Wisconsin, US",US,1,1,0
+"Iroquois, Illinois, US",US,13,0,0
+"Irwin, Georgia, US",US,15,0,0
+"Isabella, Michigan, US",US,45,7,0
+"Isanti, Minnesota, US",US,5,0,0
+"Island, Washington, US",US,158,8,0
+"Isle of Wight, Virginia, US",US,86,0,0
+"Itasca, Minnesota, US",US,2,0,0
+"Itawamba, Mississippi, US",US,20,1,0
+"Izard, Arkansas, US",US,2,0,0
+"Jack, Texas, US",US,3,0,0
+"Jackson, Alabama, US",US,36,2,0
+"Jackson, Arkansas, US",US,1,0,0
+"Jackson, Florida, US",US,8,0,0
+"Jackson, Georgia, US",US,47,1,0
+"Jackson, Illinois, US",US,38,4,0
+"Jackson, Indiana, US",US,90,0,0
+"Jackson, Iowa, US",US,4,0,0
+"Jackson, Kansas, US",US,1,0,0
+"Jackson, Kentucky, US",US,52,3,0
+"Jackson, Louisiana, US",US,14,0,0
+"Jackson, Michigan, US",US,238,10,0
+"Jackson, Minnesota, US",US,2,0,0
+"Jackson, Mississippi, US",US,199,6,0
+"Jackson, Missouri, US",US,257,11,0
+"Jackson, North Carolina, US",US,5,0,0
+"Jackson, Ohio, US",US,5,0,0
+"Jackson, Oklahoma, US",US,6,0,0
+"Jackson, Oregon, US",US,49,0,0
+"Jackson, Tennessee, US",US,6,0,0
+"Jackson, Texas, US",US,4,0,0
+"Jackson, West Virginia, US",US,99,1,0
+"Jackson, Wisconsin, US",US,11,1,0
+"James City, Virginia, US",US,139,2,0
+"Jasper, Georgia, US",US,17,0,0
+"Jasper, Illinois, US",US,19,1,0
+"Jasper, Indiana, US",US,21,1,0
+"Jasper, Iowa, US",US,36,0,0
+"Jasper, Mississippi, US",US,22,1,0
+"Jasper, Missouri, US",US,28,0,0
+"Jasper, South Carolina, US",US,14,1,0
+"Jasper, Texas, US",US,8,1,0
+"Jay, Indiana, US",US,9,0,0
+"Jeff Davis, Georgia, US",US,6,0,0
+"Jefferson, Alabama, US",US,657,25,0
+"Jefferson, Arkansas, US",US,112,6,0
+"Jefferson, Colorado, US",US,921,36,0
+"Jefferson, Florida, US",US,25,1,0
+"Jefferson, Georgia, US",US,10,1,0
+"Jefferson, Idaho, US",US,5,0,0
+"Jefferson, Illinois, US",US,31,0,0
+"Jefferson, Indiana, US",US,18,0,0
+"Jefferson, Iowa, US",US,4,0,0
+"Jefferson, Kansas, US",US,5,0,0
+"Jefferson, Kentucky, US",US,754,60,0
+"Jefferson, Louisiana, US",US,5310,282,0
+"Jefferson, Mississippi, US",US,4,0,0
+"Jefferson, Missouri, US",US,210,4,0
+"Jefferson, Montana, US",US,2,0,0
+"Jefferson, New York, US",US,54,0,0
+"Jefferson, Ohio, US",US,28,0,0
+"Jefferson, Oklahoma, US",US,1,0,0
+"Jefferson, Oregon, US",US,1,0,0
+"Jefferson, Pennsylvania, US",US,2,0,0
+"Jefferson, Tennessee, US",US,14,1,0
+"Jefferson, Texas, US",US,162,9,0
+"Jefferson, Washington, US",US,29,0,0
+"Jefferson, West Virginia, US",US,60,0,0
+"Jefferson, Wisconsin, US",US,32,0,0
+"Jefferson Davis, Louisiana, US",US,50,5,0
+"Jefferson Davis, Mississippi, US",US,7,1,0
+"Jenkins, Georgia, US",US,11,1,0
+"Jennings, Indiana, US",US,63,1,0
+"Jerauld, South Dakota, US",US,4,0,0
+"Jerome, Idaho, US",US,42,2,0
+"Jersey, Illinois, US",US,8,0,0
+"Jessamine, Kentucky, US",US,32,0,0
+"Jewell, Kansas, US",US,4,0,0
+"Jim Wells, Texas, US",US,2,0,0
+"Jo Daviess, Illinois, US",US,12,0,0
+"Johnson, Arkansas, US",US,22,0,0
+"Johnson, Georgia, US",US,32,1,0
+"Johnson, Illinois, US",US,2,0,0
+"Johnson, Indiana, US",US,379,32,0
+"Johnson, Iowa, US",US,282,3,0
+"Johnson, Kansas, US",US,342,30,0
+"Johnson, Kentucky, US",US,1,0,0
+"Johnson, Missouri, US",US,48,0,0
+"Johnson, Nebraska, US",US,2,0,0
+"Johnson, Tennessee, US",US,2,0,0
+"Johnson, Texas, US",US,43,1,0
+"Johnson, Wyoming, US",US,10,1,0
+"Johnston, North Carolina, US",US,114,9,0
+"Johnston, Oklahoma, US",US,3,0,0
+"Jones, Georgia, US",US,17,0,0
+"Jones, Iowa, US",US,14,0,0
+"Jones, Mississippi, US",US,70,0,0
+"Jones, North Carolina, US",US,8,1,0
+"Jones, Texas, US",US,4,0,0
+"Josephine, Oregon, US",US,18,1,0
+"Juneau, Alaska, US",US,24,0,0
+"Juneau, Wisconsin, US",US,9,1,0
+"Juniata, Pennsylvania, US",US,70,0,0
+"Kalamazoo, Michigan, US",US,157,9,0
+"Kalkaska, Michigan, US",US,15,2,0
+"Kanawha, West Virginia, US",US,127,0,0
+"Kandiyohi, Minnesota, US",US,2,0,0
+"Kane, Illinois, US",US,575,30,0
+"Kankakee, Illinois, US",US,263,12,0
+"Kansas City, Missouri, US",US,405,13,0
+"Karnes, Texas, US",US,3,0,0
+"Kauai, Hawaii, US",US,21,0,0
+"Kaufman, Texas, US",US,42,0,0
+"Kay, Oklahoma, US",US,42,4,0
+"Kearney, Nebraska, US",US,4,0,0
+"Kearny, Kansas, US",US,1,0,0
+"Kemper, Mississippi, US",US,19,0,0
+"Kenai Peninsula, Alaska, US",US,19,0,0
+"Kendall, Illinois, US",US,132,3,0
+"Kendall, Texas, US",US,14,0,0
+"Kennebec, Maine, US",US,93,4,0
+"Kenosha, Wisconsin, US",US,243,5,0
+"Kent, Delaware, US",US,407,10,0
+"Kent, Maryland, US",US,17,1,0
+"Kent, Michigan, US",US,478,25,0
+"Kent, Rhode Island, US",US,316,0,0
+"Kenton, Kentucky, US",US,139,10,0
+"Keokuk, Iowa, US",US,3,0,0
+"Kern, California, US",US,620,3,0
+"Kerr, Texas, US",US,4,0,0
+"Kershaw, South Carolina, US",US,189,8,0
+"Ketchikan Gateway, Alaska, US",US,15,0,0
+"Kewaunee, Wisconsin, US",US,7,1,0
+"Kimball, Nebraska, US",US,9,0,0
+"King, Washington, US",US,4828,346,0
+"King George, Virginia, US",US,18,0,0
+"King William, Virginia, US",US,2,0,0
+"King and Queen, Virginia, US",US,2,0,0
+"Kingfisher, Oklahoma, US",US,6,0,0
+"Kings, California, US",US,27,1,0
+"Kingsbury, South Dakota, US",US,0,0,0
+"Kiowa, Oklahoma, US",US,3,0,0
+"Kit Carson, Colorado, US",US,17,1,0
+"Kitsap, Washington, US",US,137,1,0
+"Kittitas, Washington, US",US,14,0,0
+"Kittson, Minnesota, US",US,1,0,0
+"Klamath, Oregon, US",US,30,0,0
+"Kleberg, Texas, US",US,5,1,0
+"Klickitat, Washington, US",US,13,3,0
+"Knott, Kentucky, US",US,3,0,0
+"Knox, Illinois, US",US,9,0,0
+"Knox, Indiana, US",US,18,0,0
+"Knox, Kentucky, US",US,5,0,0
+"Knox, Maine, US",US,12,0,0
+"Knox, Nebraska, US",US,2,0,0
+"Knox, Ohio, US",US,10,1,0
+"Knox, Tennessee, US",US,190,4,0
+"Knox, Texas, US",US,1,0,0
+"Kodiak Island, Alaska, US",US,1,0,0
+"Koochiching, Minnesota, US",US,1,0,0
+"Kootenai, Idaho, US",US,50,0,0
+"Kosciusko, Indiana, US",US,21,1,0
+"Kossuth, Iowa, US",US,1,0,0
+"La Crosse, Wisconsin, US",US,25,0,0
+"La Paz, Arizona, US",US,4,1,0
+"La Plata, Colorado, US",US,52,0,0
+"La Salle, Texas, US",US,1,0,0
+"LaGrange, Indiana, US",US,15,1,0
+"LaPorte, Indiana, US",US,135,5,0
+"LaSalle, Illinois, US",US,27,1,0
+"LaSalle, Louisiana, US",US,13,0,0
+"Labette, Kansas, US",US,20,0,0
+"Lac qui Parle, Minnesota, US",US,1,0,0
+"Lackawanna, Pennsylvania, US",US,595,41,0
+"Lafayette, Arkansas, US",US,4,0,0
+"Lafayette, Florida, US",US,1,0,0
+"Lafayette, Louisiana, US",US,402,17,0
+"Lafayette, Mississippi, US",US,61,3,0
+"Lafayette, Missouri, US",US,29,1,0
+"Lafayette, Wisconsin, US",US,3,0,0
+"Lafourche, Louisiana, US",US,541,25,0
+"Lake, California, US",US,6,0,0
+"Lake, Colorado, US",US,8,0,0
+"Lake, Florida, US",US,201,6,0
+"Lake, Illinois, US",US,2087,75,0
+"Lake, Indiana, US",US,1060,45,0
+"Lake, Michigan, US",US,2,0,0
+"Lake, Montana, US",US,5,0,0
+"Lake, Ohio, US",US,127,6,0
+"Lake, South Dakota, US",US,3,0,0
+"Lake, Tennessee, US",US,4,0,0
+"Lamar, Alabama, US",US,8,0,0
+"Lamar, Georgia, US",US,25,0,0
+"Lamar, Mississippi, US",US,66,1,0
+"Lamar, Texas, US",US,7,0,0
+"Lamb, Texas, US",US,2,0,0
+"Lamoille, Vermont, US",US,21,2,0
+"Lampasas, Texas, US",US,2,0,0
+"Lancaster, Nebraska, US",US,80,1,0
+"Lancaster, Pennsylvania, US",US,1090,98,0
+"Lancaster, South Carolina, US",US,77,2,0
+"Lancaster, Virginia, US",US,1,0,0
+"Lane, Oregon, US",US,47,1,0
+"Lanier, Georgia, US",US,5,1,0
+"Lapeer, Michigan, US",US,125,18,0
+"Laramie, Wyoming, US",US,71,0,0
+"Larimer, Colorado, US",US,227,12,0
+"Larue, Kentucky, US",US,5,0,0
+"Las Animas, Colorado, US",US,3,0,0
+"Latah, Idaho, US",US,3,0,0
+"Latimer, Oklahoma, US",US,3,1,0
+"Lauderdale, Alabama, US",US,19,4,0
+"Lauderdale, Mississippi, US",US,188,14,0
+"Lauderdale, Tennessee, US",US,15,0,0
+"Laurel, Kentucky, US",US,11,2,0
+"Laurens, Georgia, US",US,42,1,0
+"Laurens, South Carolina, US",US,19,1,0
+"Lavaca, Texas, US",US,4,0,0
+"Lawrence, Alabama, US",US,9,0,0
+"Lawrence, Arkansas, US",US,25,1,0
+"Lawrence, Illinois, US",US,2,0,0
+"Lawrence, Indiana, US",US,70,9,0
+"Lawrence, Kentucky, US",US,1,0,0
+"Lawrence, Mississippi, US",US,16,0,0
+"Lawrence, Ohio, US",US,21,0,0
+"Lawrence, Pennsylvania, US",US,54,5,0
+"Lawrence, South Dakota, US",US,9,0,0
+"Lawrence, Tennessee, US",US,15,0,0
+"Le Flore, Oklahoma, US",US,6,0,0
+"Le Sueur, Minnesota, US",US,22,0,0
+"Lea, New Mexico, US",US,2,0,0
+"Leake, Mississippi, US",US,76,1,0
+"Leavenworth, Kansas, US",US,126,2,0
+"Lebanon, Pennsylvania, US",US,480,4,0
+"Lee, Alabama, US",US,294,14,0
+"Lee, Arkansas, US",US,2,1,0
+"Lee, Florida, US",US,742,27,0
+"Lee, Georgia, US",US,257,15,0
+"Lee, Illinois, US",US,17,0,0
+"Lee, Iowa, US",US,3,0,0
+"Lee, Mississippi, US",US,56,4,0
+"Lee, North Carolina, US",US,34,0,0
+"Lee, South Carolina, US",US,37,5,0
+"Lee, Texas, US",US,2,0,0
+"Lee, Virginia, US",US,7,0,0
+"Leelanau, Michigan, US",US,8,0,0
+"Leflore, Mississippi, US",US,84,7,0
+"Lehigh, Pennsylvania, US",US,2171,32,0
+"Lenawee, Michigan, US",US,64,0,0
+"Lenoir, North Carolina, US",US,20,1,0
+"Leon, Florida, US",US,175,1,0
+"Leon, Texas, US",US,5,0,0
+"Leslie, Kentucky, US",US,2,0,0
+"Letcher, Kentucky, US",US,1,0,0
+"Levy, Florida, US",US,12,0,0
+"Lewis, Idaho, US",US,0,0,0
+"Lewis, Kentucky, US",US,3,0,0
+"Lewis, New York, US",US,8,0,0
+"Lewis, Tennessee, US",US,2,0,0
+"Lewis, Washington, US",US,18,2,0
+"Lewis, West Virginia, US",US,2,0,0
+"Lewis and Clark, Montana, US",US,16,0,0
+"Lexington, South Carolina, US",US,264,9,0
+"Lexington, Virginia, US",US,3,0,0
+"Liberty, Florida, US",US,2,0,0
+"Liberty, Georgia, US",US,32,0,0
+"Liberty, Montana, US",US,1,0,0
+"Liberty, Texas, US",US,32,0,0
+"Licking, Ohio, US",US,98,4,0
+"Limestone, Alabama, US",US,40,0,0
+"Limestone, Texas, US",US,10,1,0
+"Lincoln, Arkansas, US",US,111,0,0
+"Lincoln, Colorado, US",US,3,0,0
+"Lincoln, Georgia, US",US,9,0,0
+"Lincoln, Idaho, US",US,17,0,0
+"Lincoln, Kentucky, US",US,3,1,0
+"Lincoln, Louisiana, US",US,47,2,0
+"Lincoln, Maine, US",US,12,0,0
+"Lincoln, Minnesota, US",US,2,0,0
+"Lincoln, Mississippi, US",US,95,6,0
+"Lincoln, Missouri, US",US,34,1,0
+"Lincoln, Montana, US",US,6,1,0
+"Lincoln, Nebraska, US",US,17,1,0
+"Lincoln, Nevada, US",US,0,0,0
+"Lincoln, New Mexico, US",US,1,0,0
+"Lincoln, North Carolina, US",US,19,0,0
+"Lincoln, Oklahoma, US",US,10,0,0
+"Lincoln, Oregon, US",US,4,0,0
+"Lincoln, South Dakota, US",US,90,0,0
+"Lincoln, Tennessee, US",US,10,0,0
+"Lincoln, Washington, US",US,2,0,0
+"Lincoln, West Virginia, US",US,1,0,0
+"Lincoln, Wyoming, US",US,5,0,0
+"Linn, Iowa, US",US,370,25,0
+"Linn, Kansas, US",US,6,0,0
+"Linn, Missouri, US",US,4,1,0
+"Linn, Oregon, US",US,53,6,0
+"Litchfield, Connecticut, US",US,552,48,0
+"Live Oak, Texas, US",US,3,0,0
+"Livingston, Illinois, US",US,17,0,0
+"Livingston, Kentucky, US",US,1,0,0
+"Livingston, Louisiana, US",US,140,8,0
+"Livingston, Michigan, US",US,268,11,0
+"Livingston, Missouri, US",US,2,0,0
+"Livingston, New York, US",US,36,3,0
+"Llano, Texas, US",US,3,0,0
+"Logan, Arkansas, US",US,3,0,0
+"Logan, Colorado, US",US,16,1,0
+"Logan, Illinois, US",US,4,0,0
+"Logan, Kentucky, US",US,8,0,0
+"Logan, Nebraska, US",US,0,0,0
+"Logan, Ohio, US",US,13,0,0
+"Logan, Oklahoma, US",US,9,0,0
+"Logan, West Virginia, US",US,7,1,0
+"Long, Georgia, US",US,2,0,0
+"Lonoke, Arkansas, US",US,26,0,0
+"Lorain, Ohio, US",US,277,17,0
+"Los Alamos, New Mexico, US",US,6,0,0
+"Los Angeles, California, US",US,11741,600,0
+"Loudon, Tennessee, US",US,22,0,0
+"Loudoun, Virginia, US",US,417,8,0
+"Louisa, Iowa, US",US,210,2,0
+"Louisa, Virginia, US",US,33,0,0
+"Love, Oklahoma, US",US,2,0,0
+"Lowndes, Alabama, US",US,28,0,0
+"Lowndes, Georgia, US",US,92,3,0
+"Lowndes, Mississippi, US",US,31,1,0
+"Lubbock, Texas, US",US,391,28,0
+"Lucas, Ohio, US",US,756,33,0
+"Luce, Michigan, US",US,1,0,0
+"Lumpkin, Georgia, US",US,23,0,0
+"Luna, New Mexico, US",US,3,0,0
+"Lunenburg, Virginia, US",US,3,0,0
+"Luzerne, Pennsylvania, US",US,1707,34,0
+"Lycoming, Pennsylvania, US",US,37,0,0
+"Lyman, South Dakota, US",US,2,0,0
+"Lynchburg, Virginia, US",US,38,0,0
+"Lynn, Texas, US",US,5,0,0
+"Lyon, Iowa, US",US,5,0,0
+"Lyon, Kansas, US",US,77,0,0
+"Lyon, Kentucky, US",US,11,2,0
+"Lyon, Minnesota, US",US,5,0,0
+"Lyon, Nevada, US",US,16,0,0
+"Mackinac, Michigan, US",US,4,0,0
+"Macomb, Michigan, US",US,3969,391,0
+"Macon, Alabama, US",US,23,2,0
+"Macon, Georgia, US",US,49,0,0
+"Macon, Illinois, US",US,47,7,0
+"Macon, Missouri, US",US,2,0,0
+"Macon, North Carolina, US",US,1,1,0
+"Macon, Tennessee, US",US,30,3,0
+"Macoupin, Illinois, US",US,21,0,0
+"Madera, California, US",US,32,2,0
+"Madison, Alabama, US",US,195,4,0
+"Madison, Arkansas, US",US,1,0,0
+"Madison, Florida, US",US,21,0,0
+"Madison, Georgia, US",US,13,1,0
+"Madison, Idaho, US",US,8,0,0
+"Madison, Illinois, US",US,174,6,0
+"Madison, Indiana, US",US,300,32,0
+"Madison, Iowa, US",US,2,1,0
+"Madison, Kentucky, US",US,20,1,0
+"Madison, Louisiana, US",US,4,0,0
+"Madison, Mississippi, US",US,131,4,0
+"Madison, Missouri, US",US,1,0,0
+"Madison, Montana, US",US,7,1,0
+"Madison, Nebraska, US",US,7,2,0
+"Madison, New York, US",US,112,5,0
+"Madison, Ohio, US",US,27,3,0
+"Madison, Tennessee, US",US,86,0,0
+"Madison, Texas, US",US,2,0,0
+"Madison, Virginia, US",US,8,0,0
+"Mahaska, Iowa, US",US,8,0,0
+"Mahnomen, Minnesota, US",US,1,0,0
+"Mahoning, Ohio, US",US,541,48,0
+"Major, Oklahoma, US",US,1,1,0
+"Malheur, Oregon, US",US,5,0,0
+"Manassas, Virginia, US",US,93,0,0
+"Manassas Park, Virginia, US",US,25,0,0
+"Manatee, Florida, US",US,386,31,0
+"Manistee, Michigan, US",US,11,0,0
+"Manitowoc, Wisconsin, US",US,6,0,0
+"Marathon, Wisconsin, US",US,16,1,0
+"Marengo, Alabama, US",US,25,1,0
+"Maricopa, Arizona, US",US,2514,75,0
+"Maries, Missouri, US",US,2,0,0
+"Marin, California, US",US,179,10,0
+"Marinette, Wisconsin, US",US,4,1,0
+"Marion, Alabama, US",US,56,5,0
+"Marion, Arkansas, US",US,1,0,0
+"Marion, Florida, US",US,118,3,0
+"Marion, Georgia, US",US,27,1,0
+"Marion, Illinois, US",US,20,0,0
+"Marion, Indiana, US",US,3697,192,0
+"Marion, Iowa, US",US,4,0,0
+"Marion, Kansas, US",US,5,0,0
+"Marion, Kentucky, US",US,13,0,0
+"Marion, Mississippi, US",US,42,1,0
+"Marion, Ohio, US",US,1833,1,0
+"Marion, Oregon, US",US,345,13,0
+"Marion, South Carolina, US",US,14,1,0
+"Marion, Tennessee, US",US,27,1,0
+"Marion, Texas, US",US,3,0,0
+"Marion, West Virginia, US",US,41,1,0
+"Marlboro, South Carolina, US",US,28,0,0
+"Marquette, Michigan, US",US,26,6,0
+"Marquette, Wisconsin, US",US,2,1,0
+"Marshall, Alabama, US",US,145,4,0
+"Marshall, Illinois, US",US,4,0,0
+"Marshall, Indiana, US",US,23,0,0
+"Marshall, Iowa, US",US,155,0,0
+"Marshall, Kentucky, US",US,12,0,0
+"Marshall, Minnesota, US",US,1,0,0
+"Marshall, Mississippi, US",US,36,2,0
+"Marshall, Oklahoma, US",US,2,0,0
+"Marshall, South Dakota, US",US,1,0,0
+"Marshall, Tennessee, US",US,15,1,0
+"Marshall, West Virginia, US",US,8,0,0
+"Martin, Florida, US",US,147,4,0
+"Martin, Indiana, US",US,5,0,0
+"Martin, Kentucky, US",US,2,0,0
+"Martin, Minnesota, US",US,35,4,0
+"Martin, North Carolina, US",US,9,0,0
+"Martin, Texas, US",US,2,0,0
+"Martinsville, Virginia, US",US,0,0,0
+"Mason, Illinois, US",US,4,0,0
+"Mason, Kentucky, US",US,6,0,0
+"Mason, Michigan, US",US,4,0,0
+"Mason, Texas, US",US,1,0,0
+"Mason, Washington, US",US,22,0,0
+"Mason, West Virginia, US",US,11,0,0
+"Massac, Illinois, US",US,3,0,0
+"Matagorda, Texas, US",US,48,3,0
+"Matanuska-Susitna, Alaska, US",US,18,0,0
+"Mathews, Virginia, US",US,3,0,0
+"Maui, Hawaii, US",US,102,4,0
+"Maury, Tennessee, US",US,34,0,0
+"Maverick, Texas, US",US,12,0,0
+"Mayes, Oklahoma, US",US,16,3,0
+"McCook, South Dakota, US",US,2,1,0
+"McCormick, South Carolina, US",US,5,1,0
+"McCracken, Kentucky, US",US,27,2,0
+"McCreary, Kentucky, US",US,10,0,0
+"McCulloch, Texas, US",US,3,0,0
+"McDonald, Missouri, US",US,4,0,0
+"McDonough, Illinois, US",US,3,0,0
+"McDowell, North Carolina, US",US,20,0,0
+"McDowell, West Virginia, US",US,6,0,0
+"McDuffie, Georgia, US",US,35,2,0
+"McHenry, Illinois, US",US,323,17,0
+"McHenry, North Dakota, US",US,0,1,0
+"McIntosh, Georgia, US",US,4,0,0
+"McIntosh, North Dakota, US",US,1,0,0
+"McKean, Pennsylvania, US",US,4,0,0
+"McKenzie, North Dakota, US",US,10,0,0
+"McKinley, New Mexico, US",US,358,5,0
+"McLean, Illinois, US",US,82,3,0
+"McLean, Kentucky, US",US,7,1,0
+"McLean, North Dakota, US",US,3,0,0
+"McLennan, Texas, US",US,72,4,0
+"McLeod, Minnesota, US",US,3,0,0
+"McMinn, Tennessee, US",US,6,0,0
+"McNairy, Tennessee, US",US,9,0,0
+"McPherson, Kansas, US",US,16,0,0
+"Meade, Kentucky, US",US,2,1,0
+"Meade, South Dakota, US",US,1,0,0
+"Meagher, Montana, US",US,1,0,0
+"Mecklenburg, North Carolina, US",US,1154,29,0
+"Mecklenburg, Virginia, US",US,65,0,0
+"Mecosta, Michigan, US",US,11,1,0
+"Medina, Ohio, US",US,125,10,0
+"Medina, Texas, US",US,13,2,0
+"Meeker, Minnesota, US",US,3,0,0
+"Meigs, Ohio, US",US,2,0,0
+"Meigs, Tennessee, US",US,3,0,0
+"Menard, Illinois, US",US,3,0,0
+"Mendocino, California, US",US,5,0,0
+"Menifee, Kentucky, US",US,3,0,0
+"Menominee, Michigan, US",US,1,0,0
+"Menominee, Wisconsin, US",US,1,0,0
+"Merced, California, US",US,87,3,0
+"Mercer, Illinois, US",US,5,0,0
+"Mercer, Kentucky, US",US,9,0,0
+"Mercer, New Jersey, US",US,2282,113,0
+"Mercer, North Dakota, US",US,0,0,0
+"Mercer, Ohio, US",US,12,1,0
+"Mercer, Pennsylvania, US",US,58,1,0
+"Mercer, West Virginia, US",US,8,0,0
+"Meriwether, Georgia, US",US,42,0,0
+"Merrick, Nebraska, US",US,7,0,0
+"Merrimack, New Hampshire, US",US,94,0,0
+"Mesa, Colorado, US",US,35,0,0
+"Miami, Indiana, US",US,22,0,0
+"Miami, Kansas, US",US,4,0,0
+"Miami, Ohio, US",US,107,22,0
+"Miami-Dade, Florida, US",US,9147,207,0
+"Michigan Department of Corrections (MDOC), Michigan, US",US,539,17,0
+"Middlesex, Connecticut, US",US,422,40,0
+"Middlesex, Massachusetts, US",US,8365,372,0
+"Middlesex, New Jersey, US",US,7688,329,0
+"Middlesex, Virginia, US",US,3,0,0
+"Midland, Michigan, US",US,43,2,0
+"Midland, Texas, US",US,39,3,0
+"Mifflin, Pennsylvania, US",US,20,0,0
+"Milam, Texas, US",US,11,0,0
+"Mille Lacs, Minnesota, US",US,0,1,0
+"Miller, Arkansas, US",US,29,0,0
+"Miller, Georgia, US",US,22,0,0
+"Miller, Missouri, US",US,1,0,0
+"Mills, Iowa, US",US,2,0,0
+"Milwaukee, Wisconsin, US",US,2025,125,0
+"Miner, South Dakota, US",US,1,0,0
+"Mineral, Colorado, US",US,2,0,0
+"Mineral, West Virginia, US",US,8,0,0
+"Mingo, West Virginia, US",US,2,0,0
+"Minidoka, Idaho, US",US,10,0,0
+"Minnehaha, South Dakota, US",US,1359,3,0
+"Missaukee, Michigan, US",US,3,1,0
+"Mississippi, Arkansas, US",US,8,0,0
+"Missoula, Montana, US",US,37,1,0
+"Mitchell, Georgia, US",US,190,23,0
+"Mitchell, Iowa, US",US,2,0,0
+"Mitchell, Kansas, US",US,2,0,0
+"Mitchell, North Carolina, US",US,5,0,0
+"Mitchell, Texas, US",US,1,0,0
+"Mobile, Alabama, US",US,633,28,0
+"Moffat, Colorado, US",US,4,0,0
+"Mohave, Arizona, US",US,53,1,0
+"Moniteau, Missouri, US",US,39,0,0
+"Monmouth, New Jersey, US",US,4443,226,0
+"Mono, California, US",US,22,1,0
+"Monona, Iowa, US",US,6,0,0
+"Monongalia, West Virginia, US",US,85,2,0
+"Monroe, Alabama, US",US,8,1,0
+"Monroe, Arkansas, US",US,3,0,0
+"Monroe, Florida, US",US,70,3,0
+"Monroe, Georgia, US",US,14,1,0
+"Monroe, Illinois, US",US,46,7,0
+"Monroe, Indiana, US",US,110,4,0
+"Monroe, Kentucky, US",US,3,0,0
+"Monroe, Michigan, US",US,223,10,0
+"Monroe, Mississippi, US",US,63,5,0
+"Monroe, New York, US",US,964,68,0
+"Monroe, Ohio, US",US,2,0,0
+"Monroe, Pennsylvania, US",US,925,38,0
+"Monroe, Tennessee, US",US,9,1,0
+"Monroe, West Virginia, US",US,5,0,0
+"Monroe, Wisconsin, US",US,13,0,0
+"Montague, Texas, US",US,5,0,0
+"Montcalm, Michigan, US",US,23,1,0
+"Monterey, California, US",US,133,3,0
+"Montezuma, Colorado, US",US,11,2,0
+"Montgomery, Alabama, US",US,223,3,0
+"Montgomery, Georgia, US",US,2,0,0
+"Montgomery, Illinois, US",US,13,1,0
+"Montgomery, Indiana, US",US,25,0,0
+"Montgomery, Iowa, US",US,1,0,0
+"Montgomery, Kansas, US",US,10,2,0
+"Montgomery, Kentucky, US",US,9,0,0
+"Montgomery, Maryland, US",US,2411,96,0
+"Montgomery, Mississippi, US",US,14,1,0
+"Montgomery, Missouri, US",US,7,0,0
+"Montgomery, New York, US",US,34,1,0
+"Montgomery, North Carolina, US",US,17,1,0
+"Montgomery, Ohio, US",US,224,8,0
+"Montgomery, Pennsylvania, US",US,2749,164,0
+"Montgomery, Tennessee, US",US,117,2,0
+"Montgomery, Texas, US",US,370,7,0
+"Montgomery, Virginia, US",US,42,0,0
+"Montmorency, Michigan, US",US,4,0,0
+"Montour, Pennsylvania, US",US,48,0,0
+"Montrose, Colorado, US",US,70,7,0
+"Moody, South Dakota, US",US,1,0,0
+"Moore, North Carolina, US",US,89,4,0
+"Moore, Tennessee, US",US,2,0,0
+"Moore, Texas, US",US,106,0,0
+"Morehouse, Louisiana, US",US,34,3,0
+"Morgan, Alabama, US",US,47,0,0
+"Morgan, Colorado, US",US,155,2,0
+"Morgan, Georgia, US",US,21,0,0
+"Morgan, Illinois, US",US,11,1,0
+"Morgan, Indiana, US",US,113,3,0
+"Morgan, Kentucky, US",US,1,0,0
+"Morgan, Missouri, US",US,2,0,0
+"Morgan, Ohio, US",US,3,0,0
+"Morgan, Tennessee, US",US,5,0,0
+"Morgan, West Virginia, US",US,8,0,0
+"Morrill, Nebraska, US",US,1,0,0
+"Morris, Kansas, US",US,2,0,0
+"Morris, New Jersey, US",US,3879,257,0
+"Morris, Texas, US",US,5,0,0
+"Morrison, Minnesota, US",US,1,0,0
+"Morrow, Ohio, US",US,20,0,0
+"Morrow, Oregon, US",US,5,0,0
+"Morton, Kansas, US",US,2,0,0
+"Morton, North Dakota, US",US,20,2,0
+"Motley, Texas, US",US,1,0,0
+"Moultrie, Illinois, US",US,2,0,0
+"Mountrail, North Dakota, US",US,30,0,0
+"Mower, Minnesota, US",US,27,0,0
+"Muhlenberg, Kentucky, US",US,73,2,0
+"Multnomah, Oregon, US",US,486,28,0
+"Murray, Georgia, US",US,18,0,0
+"Murray, Minnesota, US",US,3,0,0
+"Murray, Oklahoma, US",US,1,0,0
+"Muscatine, Iowa, US",US,203,4,0
+"Muscogee, Georgia, US",US,215,4,0
+"Muskegon, Michigan, US",US,137,6,0
+"Muskingum, Ohio, US",US,8,0,0
+"Muskogee, Oklahoma, US",US,23,3,0
+"Musselshell, Montana, US",US,1,0,0
+"Nacogdoches, Texas, US",US,83,6,0
+"Nance, Nebraska, US",US,1,0,0
+"Napa, California, US",US,45,2,0
+"Nash, North Carolina, US",US,60,1,0
+"Nassau, Florida, US",US,44,0,0
+"Nassau, New York, US",US,28904,1109,0
+"Natchitoches, Louisiana, US",US,56,1,0
+"Natrona, Wyoming, US",US,38,0,0
+"Navajo, Arizona, US",US,448,11,0
+"Navarro, Texas, US",US,18,2,0
+"Nelson, Kentucky, US",US,13,0,0
+"Nelson, North Dakota, US",US,1,0,0
+"Nelson, Virginia, US",US,5,0,0
+"Nemaha, Nebraska, US",US,1,0,0
+"Neosho, Kansas, US",US,2,0,0
+"Neshoba, Mississippi, US",US,63,2,0
+"Nevada, Arkansas, US",US,1,0,0
+"Nevada, California, US",US,35,1,0
+"New Castle, Delaware, US",US,1173,32,0
+"New Hanover, North Carolina, US",US,67,1,0
+"New Haven, Connecticut, US",US,4614,257,0
+"New Kent, Virginia, US",US,17,0,0
+"New London, Connecticut, US",US,329,10,0
+"New Madrid, Missouri, US",US,9,0,0
+"New York City, New York, US",US,124249,14451,0
+"Newaygo, Michigan, US",US,7,0,0
+"Newberry, South Carolina, US",US,20,1,0
+"Newport, Rhode Island, US",US,103,0,0
+"Newport News, Virginia, US",US,101,1,0
+"Newton, Arkansas, US",US,2,0,0
+"Newton, Georgia, US",US,125,3,0
+"Newton, Indiana, US",US,27,4,0
+"Newton, Mississippi, US",US,26,0,0
+"Newton, Missouri, US",US,9,0,0
+"Newton, Texas, US",US,2,0,0
+"Nez Perce, Idaho, US",US,19,11,0
+"Niagara, New York, US",US,237,9,0
+"Nicholas, Kentucky, US",US,1,0,0
+"Nicholas, West Virginia, US",US,4,0,0
+"Nicollet, Minnesota, US",US,5,2,0
+"Niobrara, Wyoming, US",US,1,0,0
+"Noble, Indiana, US",US,33,3,0
+"Noble, Ohio, US",US,6,0,0
+"Noble, Oklahoma, US",US,6,0,0
+"Nobles, Minnesota, US",US,60,0,0
+"Nodaway, Missouri, US",US,3,0,0
+"Nome, Alaska, US",US,1,0,0
+"Norfolk, Massachusetts, US",US,3545,244,0
+"Norfolk, Virginia, US",US,109,2,0
+"Norman, Minnesota, US",US,4,0,0
+"Northampton, North Carolina, US",US,70,2,0
+"Northampton, Pennsylvania, US",US,1405,36,0
+"Northampton, Virginia, US",US,7,0,0
+"Northumberland, Pennsylvania, US",US,67,0,0
+"Northumberland, Virginia, US",US,5,0,0
+"Norton, Virginia, US",US,2,0,0
+"Nottoway, Virginia, US",US,8,0,0
+"Nowata, Oklahoma, US",US,13,0,0
+"Noxubee, Mississippi, US",US,22,0,0
+"Nueces, Texas, US",US,90,0,0
+"Nye, Nevada, US",US,28,0,0
+"O'Brien, Iowa, US",US,3,0,0
+"Oakland, Michigan, US",US,5638,471,0
+"Obion, Tennessee, US",US,8,1,0
+"Ocean, New Jersey, US",US,4431,217,0
+"Oceana, Michigan, US",US,2,1,0
+"Oconee, Georgia, US",US,50,0,0
+"Oconee, South Carolina, US",US,17,0,0
+"Oconto, Wisconsin, US",US,4,0,0
+"Ogemaw, Michigan, US",US,6,0,0
+"Oglala Lakota, South Dakota, US",US,1,0,0
+"Ogle, Illinois, US",US,47,1,0
+"Oglethorpe, Georgia, US",US,30,2,0
+"Ohio, Indiana, US",US,1,0,0
+"Ohio, Kentucky, US",US,17,0,0
+"Ohio, West Virginia, US",US,22,0,0
+"Okaloosa, Florida, US",US,128,3,0
+"Okanogan, Washington, US",US,15,0,0
+"Okeechobee, Florida, US",US,7,0,0
+"Okfuskee, Oklahoma, US",US,1,0,0
+"Oklahoma, Oklahoma, US",US,537,23,0
+"Okmulgee, Oklahoma, US",US,15,0,0
+"Oktibbeha, Mississippi, US",US,41,2,0
+"Oldham, Kentucky, US",US,22,0,0
+"Oldham, Texas, US",US,2,1,0
+"Oliver, North Dakota, US",US,1,0,0
+"Olmsted, Minnesota, US",US,191,3,0
+"Oneida, New York, US",US,268,7,0
+"Oneida, Wisconsin, US",US,6,0,0
+"Onondaga, New York, US",US,618,19,0
+"Onslow, North Carolina, US",US,36,1,0
+"Ontario, New York, US",US,70,0,0
+"Ontonagon, Michigan, US",US,0,0,0
+"Orange, California, US",US,1604,32,0
+"Orange, Florida, US",US,1175,23,0
+"Orange, Indiana, US",US,26,4,0
+"Orange, New York, US",US,6303,211,0
+"Orange, North Carolina, US",US,184,3,0
+"Orange, Texas, US",US,53,0,0
+"Orange, Vermont, US",US,5,0,0
+"Orange, Virginia, US",US,20,0,0
+"Orangeburg, South Carolina, US",US,43,0,0
+"Oregon, Missouri, US",US,1,0,0
+"Orleans, Louisiana, US",US,5671,329,0
+"Orleans, New York, US",US,45,1,0
+"Orleans, Vermont, US",US,9,0,0
+"Osage, Kansas, US",US,4,0,0
+"Osage, Missouri, US",US,4,0,0
+"Osage, Oklahoma, US",US,56,8,0
+"Osborne, Kansas, US",US,2,0,0
+"Osceola, Florida, US",US,404,5,0
+"Osceola, Iowa, US",US,3,0,0
+"Osceola, Michigan, US",US,6,0,0
+"Oscoda, Michigan, US",US,5,0,0
+"Oswego, New York, US",US,45,2,0
+"Otero, Colorado, US",US,6,0,0
+"Otero, New Mexico, US",US,3,0,0
+"Otoe, Nebraska, US",US,1,0,0
+"Otsego, Michigan, US",US,67,5,0
+"Otsego, New York, US",US,44,4,0
+"Ottawa, Kansas, US",US,3,0,0
+"Ottawa, Michigan, US",US,102,5,0
+"Ottawa, Ohio, US",US,27,0,0
+"Ottawa, Oklahoma, US",US,27,0,0
+"Otter Tail, Minnesota, US",US,6,0,0
+"Ouachita, Arkansas, US",US,5,0,0
+"Ouachita, Louisiana, US",US,498,13,0
+"Ouray, Colorado, US",US,4,1,0
+"Out of GA, Georgia, US",US,861,7,0
+"Out of HI, Hawaii, US",US,6,0,0
+"Out of MI, Michigan, US",US,74,2,0
+"Out of OK, Oklahoma, US",US,0,0,0
+"Out of TN, Tennessee, US",US,273,1,0
+"Outagamie, Wisconsin, US",US,33,2,0
+"Overton, Tennessee, US",US,7,0,0
+"Owen, Indiana, US",US,20,1,0
+"Owsley, Kentucky, US",US,2,0,0
+"Owyhee, Idaho, US",US,4,0,0
+"Oxford, Maine, US",US,14,0,0
+"Ozaukee, Wisconsin, US",US,70,9,0
+"Pacific, Washington, US",US,1,0,0
+"Page, Iowa, US",US,4,0,0
+"Page, Virginia, US",US,13,0,0
+"Palm Beach, Florida, US",US,2049,121,0
+"Palo Pinto, Texas, US",US,6,1,0
+"Pamlico, North Carolina, US",US,6,0,0
+"Panola, Mississippi, US",US,33,2,0
+"Panola, Texas, US",US,35,3,0
+"Park, Colorado, US",US,6,0,0
+"Park, Montana, US",US,7,0,0
+"Park, Wyoming, US",US,1,0,0
+"Parke, Indiana, US",US,9,0,0
+"Parker, Texas, US",US,21,0,0
+"Parmer, Texas, US",US,1,0,0
+"Pasco, Florida, US",US,202,3,0
+"Pasquotank, North Carolina, US",US,20,0,0
+"Passaic, New Jersey, US",US,8038,250,0
+"Patrick, Virginia, US",US,0,0,0
+"Paulding, Georgia, US",US,126,7,0
+"Paulding, Ohio, US",US,5,0,0
+"Pawnee, Oklahoma, US",US,26,2,0
+"Payette, Idaho, US",US,9,1,0
+"Payne, Oklahoma, US",US,37,0,0
+"Peach, Georgia, US",US,30,2,0
+"Pearl River, Mississippi, US",US,116,10,0
+"Pecos, Texas, US",US,5,0,0
+"Pemiscot, Missouri, US",US,13,0,0
+"Pend Oreille, Washington, US",US,2,0,0
+"Pender, North Carolina, US",US,7,0,0
+"Pendleton, Kentucky, US",US,5,0,0
+"Pendleton, West Virginia, US",US,2,0,0
+"Pennington, South Dakota, US",US,9,1,0
+"Penobscot, Maine, US",US,43,0,0
+"Peoria, Illinois, US",US,37,2,0
+"Pepin, Wisconsin, US",US,0,0,0
+"Perquimans, North Carolina, US",US,8,0,0
+"Perry, Alabama, US",US,9,0,0
+"Perry, Arkansas, US",US,3,0,0
+"Perry, Illinois, US",US,1,0,0
+"Perry, Indiana, US",US,5,0,0
+"Perry, Kentucky, US",US,4,0,0
+"Perry, Mississippi, US",US,21,1,0
+"Perry, Missouri, US",US,41,0,0
+"Perry, Ohio, US",US,9,0,0
+"Perry, Pennsylvania, US",US,19,1,0
+"Perry, Tennessee, US",US,6,0,0
+"Person, North Carolina, US",US,16,0,0
+"Petersburg, Alaska, US",US,3,0,0
+"Petersburg, Virginia, US",US,21,0,0
+"Pettis, Missouri, US",US,13,0,0
+"Phelps, Missouri, US",US,1,0,0
+"Phelps, Nebraska, US",US,1,0,0
+"Philadelphia, Pennsylvania, US",US,8849,365,0
+"Phillips, Arkansas, US",US,3,1,0
+"Phillips, Colorado, US",US,5,0,0
+"Phillips, Kansas, US",US,1,0,0
+"Piatt, Illinois, US",US,7,0,0
+"Pickaway, Ohio, US",US,473,4,0
+"Pickens, Alabama, US",US,38,0,0
+"Pickens, Georgia, US",US,16,2,0
+"Pickens, South Carolina, US",US,39,0,0
+"Pierce, Georgia, US",US,49,2,0
+"Pierce, Nebraska, US",US,1,0,0
+"Pierce, North Dakota, US",US,2,0,0
+"Pierce, Washington, US",US,1111,32,0
+"Pierce, Wisconsin, US",US,7,0,0
+"Pike, Alabama, US",US,37,0,0
+"Pike, Arkansas, US",US,2,0,0
+"Pike, Georgia, US",US,31,1,0
+"Pike, Illinois, US",US,1,0,0
+"Pike, Indiana, US",US,1,0,0
+"Pike, Kentucky, US",US,5,1,0
+"Pike, Mississippi, US",US,102,2,0
+"Pike, Missouri, US",US,6,0,0
+"Pike, Ohio, US",US,1,0,0
+"Pike, Pennsylvania, US",US,293,8,0
+"Pima, Arizona, US",US,857,56,0
+"Pinal, Arizona, US",US,240,7,0
+"Pine, Minnesota, US",US,10,0,0
+"Pinellas, Florida, US",US,576,16,0
+"Pipestone, Minnesota, US",US,2,0,0
+"Piscataquis, Maine, US",US,1,0,0
+"Pitkin, Colorado, US",US,55,2,0
+"Pitt, North Carolina, US",US,92,1,0
+"Pittsburg, Oklahoma, US",US,16,1,0
+"Pittsylvania, Virginia, US",US,6,0,0
+"Placer, California, US",US,124,8,0
+"Plaquemines, Louisiana, US",US,146,11,0
+"Platte, Missouri, US",US,27,0,0
+"Platte, Nebraska, US",US,7,0,0
+"Platte, Wyoming, US",US,0,0,0
+"Pleasants, West Virginia, US",US,1,0,0
+"Plumas, California, US",US,4,0,0
+"Plymouth, Iowa, US",US,8,0,0
+"Plymouth, Massachusetts, US",US,2701,131,0
+"Poinsett, Arkansas, US",US,10,0,0
+"Pointe Coupee, Louisiana, US",US,63,6,0
+"Polk, Arkansas, US",US,7,0,0
+"Polk, Florida, US",US,314,12,0
+"Polk, Georgia, US",US,30,0,0
+"Polk, Iowa, US",US,320,13,0
+"Polk, Minnesota, US",US,3,0,0
+"Polk, Missouri, US",US,1,0,0
+"Polk, Nebraska, US",US,5,0,0
+"Polk, North Carolina, US",US,10,0,0
+"Polk, Oregon, US",US,31,1,0
+"Polk, Tennessee, US",US,5,0,0
+"Polk, Texas, US",US,14,0,0
+"Polk, Wisconsin, US",US,4,0,0
+"Pondera, Montana, US",US,2,0,0
+"Pontotoc, Mississippi, US",US,16,2,0
+"Pontotoc, Oklahoma, US",US,9,1,0
+"Pope, Arkansas, US",US,35,0,0
+"Poquoson, Virginia, US",US,6,0,0
+"Portage, Ohio, US",US,152,24,0
+"Portage, Wisconsin, US",US,4,0,0
+"Porter, Indiana, US",US,172,3,0
+"Portsmouth, Virginia, US",US,61,4,0
+"Posey, Indiana, US",US,7,0,0
+"Pottawatomie, Kansas, US",US,6,0,0
+"Pottawatomie, Oklahoma, US",US,32,4,0
+"Pottawattamie, Iowa, US",US,17,1,0
+"Potter, Pennsylvania, US",US,4,0,0
+"Potter, Texas, US",US,128,2,0
+"Powell, Kentucky, US",US,1,0,0
+"Power, Idaho, US",US,2,0,0
+"Poweshiek, Iowa, US",US,9,1,0
+"Powhatan, Virginia, US",US,9,0,0
+"Prairie, Arkansas, US",US,2,0,0
+"Pratt, Kansas, US",US,1,0,0
+"Preble, Ohio, US",US,20,1,0
+"Prentiss, Mississippi, US",US,19,0,0
+"Presque Isle, Michigan, US",US,2,0,0
+"Preston, West Virginia, US",US,10,0,0
+"Price, Wisconsin, US",US,1,0,0
+"Prince Edward, Virginia, US",US,17,0,0
+"Prince George, Virginia, US",US,28,0,0
+"Prince George's, Maryland, US",US,3240,105,0
+"Prince William, Virginia, US",US,741,1,0
+"Prince of Wales-Hyder, Alaska, US",US,2,0,0
+"Providence, Rhode Island, US",US,3011,3,0
+"Prowers, Colorado, US",US,1,0,0
+"Pueblo, Colorado, US",US,81,6,0
+"Pulaski, Arkansas, US",US,365,12,0
+"Pulaski, Georgia, US",US,15,1,0
+"Pulaski, Illinois, US",US,9,0,0
+"Pulaski, Indiana, US",US,1,0,0
+"Pulaski, Kentucky, US",US,33,2,0
+"Pulaski, Missouri, US",US,30,1,0
+"Pulaski, Virginia, US",US,8,0,0
+"Putnam, Florida, US",US,55,1,0
+"Putnam, Georgia, US",US,20,1,0
+"Putnam, Indiana, US",US,47,4,0
+"Putnam, New York, US",US,771,7,0
+"Putnam, Ohio, US",US,18,0,0
+"Putnam, Tennessee, US",US,93,2,0
+"Putnam, West Virginia, US",US,14,0,0
+"Quay, New Mexico, US",US,2,0,0
+"Queen Anne's, Maryland, US",US,23,2,0
+"Quitman, Georgia, US",US,2,1,0
+"Quitman, Mississippi, US",US,13,0,0
+"Rabun, Georgia, US",US,7,0,0
+"Racine, Wisconsin, US",US,159,9,0
+"Radford, Virginia, US",US,1,0,0
+"Rains, Texas, US",US,2,0,0
+"Raleigh, West Virginia, US",US,7,0,0
+"Ralls, Missouri, US",US,1,0,0
+"Ramsey, Minnesota, US",US,187,9,0
+"Ramsey, North Dakota, US",US,3,0,0
+"Randall, Texas, US",US,100,3,0
+"Randolph, Alabama, US",US,50,3,0
+"Randolph, Arkansas, US",US,11,0,0
+"Randolph, Georgia, US",US,128,13,0
+"Randolph, Illinois, US",US,56,1,0
+"Randolph, Indiana, US",US,11,1,0
+"Randolph, Missouri, US",US,8,0,0
+"Randolph, North Carolina, US",US,72,2,0
+"Randolph, West Virginia, US",US,4,0,0
+"Rankin, Mississippi, US",US,131,2,0
+"Rapides, Louisiana, US",US,203,7,0
+"Rappahannock, Virginia, US",US,1,0,0
+"Ravalli, Montana, US",US,5,0,0
+"Ray, Missouri, US",US,7,0,0
+"Red Lake, Minnesota, US",US,1,0,0
+"Red River, Louisiana, US",US,17,3,0
+"Red River, Texas, US",US,1,0,0
+"Red Willow, Nebraska, US",US,1,0,0
+"Redwood, Minnesota, US",US,1,0,0
+"Reeves, Texas, US",US,2,0,0
+"Reno, Kansas, US",US,14,0,0
+"Rensselaer, New York, US",US,180,6,0
+"Renville, Minnesota, US",US,3,0,0
+"Republic, Kansas, US",US,4,0,0
+"Reynolds, Missouri, US",US,2,0,0
+"Rhea, Tennessee, US",US,2,0,0
+"Rice, Minnesota, US",US,7,1,0
+"Richland, Illinois, US",US,2,0,0
+"Richland, Louisiana, US",US,33,0,0
+"Richland, Montana, US",US,3,0,0
+"Richland, North Dakota, US",US,5,0,0
+"Richland, Ohio, US",US,64,1,0
+"Richland, South Carolina, US",US,638,14,0
+"Richland, Wisconsin, US",US,7,1,0
+"Richmond, Georgia, US",US,254,10,0
+"Richmond, North Carolina, US",US,17,2,0
+"Richmond, Virginia, US",US,9,0,0
+"Richmond City, Virginia, US",US,221,10,0
+"Riley, Kansas, US",US,27,0,0
+"Rio Arriba, New Mexico, US",US,10,0,0
+"Rio Blanco, Colorado, US",US,1,0,0
+"Rio Grande, Colorado, US",US,7,0,0
+"Ripley, Indiana, US",US,79,3,0
+"Ripley, Missouri, US",US,4,0,0
+"Riverside, California, US",US,2563,75,0
+"Roane, Tennessee, US",US,8,0,0
+"Roane, West Virginia, US",US,3,0,0
+"Roanoke, Virginia, US",US,22,0,0
+"Roanoke City, Virginia, US",US,24,0,0
+"Roberts, South Dakota, US",US,4,0,0
+"Roberts, Texas, US",US,2,0,0
+"Robertson, Tennessee, US",US,113,0,0
+"Robertson, Texas, US",US,2,0,0
+"Robeson, North Carolina, US",US,23,2,0
+"Rock, Minnesota, US",US,3,0,0
+"Rock, Wisconsin, US",US,70,4,0
+"Rock Island, Illinois, US",US,184,4,0
+"Rockbridge, Virginia, US",US,5,0,0
+"Rockcastle, Kentucky, US",US,11,0,0
+"Rockdale, Georgia, US",US,122,6,0
+"Rockingham, New Hampshire, US",US,478,1,0
+"Rockingham, North Carolina, US",US,16,2,0
+"Rockingham, Virginia, US",US,100,0,0
+"Rockland, New York, US",US,9030,334,0
+"Rockwall, Texas, US",US,41,0,0
+"Rogers, Oklahoma, US",US,36,2,0
+"Rolette, North Dakota, US",US,1,0,0
+"Rooks, Kansas, US",US,4,0,0
+"Roosevelt, Montana, US",US,6,0,0
+"Roosevelt, New Mexico, US",US,1,0,0
+"Roscommon, Michigan, US",US,10,0,0
+"Roseau, Minnesota, US",US,1,0,0
+"Ross, Ohio, US",US,36,0,0
+"Routt, Colorado, US",US,47,2,0
+"Rowan, Kentucky, US",US,1,0,0
+"Rowan, North Carolina, US",US,236,12,0
+"Rush, Indiana, US",US,18,1,0
+"Rusk, Texas, US",US,27,1,0
+"Rusk, Wisconsin, US",US,4,0,0
+"Russell, Alabama, US",US,43,0,0
+"Russell, Kentucky, US",US,13,2,0
+"Russell, Virginia, US",US,2,0,0
+"Rutherford, North Carolina, US",US,71,4,0
+"Rutherford, Tennessee, US",US,303,6,0
+"Rutland, Vermont, US",US,42,1,0
+"Sabine, Louisiana, US",US,13,0,0
+"Sabine, Texas, US",US,1,0,0
+"Sacramento, California, US",US,891,34,0
+"Sagadahoc, Maine, US",US,16,0,0
+"Saginaw, Michigan, US",US,380,24,0
+"Saguache, Colorado, US",US,3,0,0
+"Salem, New Jersey, US",US,112,4,0
+"Salem, Virginia, US",US,6,0,0
+"Saline, Arkansas, US",US,42,1,0
+"Saline, Illinois, US",US,3,0,0
+"Saline, Kansas, US",US,13,2,0
+"Saline, Missouri, US",US,64,0,0
+"Saline, Nebraska, US",US,7,0,0
+"Salt Lake, Utah, US",US,1600,15,0
+"Saluda, South Carolina, US",US,12,0,0
+"Sampson, North Carolina, US",US,22,0,0
+"San Augustine, Texas, US",US,13,1,0
+"San Benito, California, US",US,42,2,0
+"San Bernardino, California, US",US,1229,57,0
+"San Diego, California, US",US,2142,71,0
+"San Francisco, California, US",US,1137,20,0
+"San Jacinto, Texas, US",US,10,0,0
+"San Joaquin, California, US",US,398,17,0
+"San Juan, New Mexico, US",US,260,15,0
+"San Juan, Utah, US",US,20,2,0
+"San Juan, Washington, US",US,15,0,0
+"San Luis Obispo, California, US",US,131,1,0
+"San Mateo, California, US",US,810,28,0
+"San Miguel, Colorado, US",US,15,0,0
+"San Miguel, New Mexico, US",US,2,0,0
+"San Patricio, Texas, US",US,8,0,0
+"Sanborn, South Dakota, US",US,3,0,0
+"Sandoval, New Mexico, US",US,309,6,0
+"Sandusky, Ohio, US",US,16,2,0
+"Sangamon, Illinois, US",US,58,4,0
+"Sanilac, Michigan, US",US,30,3,0
+"Santa Barbara, California, US",US,381,4,0
+"Santa Clara, California, US",US,1797,73,0
+"Santa Cruz, Arizona, US",US,19,0,0
+"Santa Cruz, California, US",US,102,2,0
+"Santa Fe, New Mexico, US",US,83,0,0
+"Santa Rosa, Florida, US",US,132,6,0
+"Sarasota, Florida, US",US,261,23,0
+"Saratoga, New York, US",US,244,7,0
+"Sargent, North Dakota, US",US,1,0,0
+"Sarpy, Nebraska, US",US,53,0,0
+"Sauk, Wisconsin, US",US,30,3,0
+"Saunders, Nebraska, US",US,6,0,0
+"Sawyer, Wisconsin, US",US,2,0,0
+"Schenectady, New York, US",US,281,14,0
+"Schley, Georgia, US",US,15,1,0
+"Schoharie, New York, US",US,20,0,0
+"Schoolcraft, Michigan, US",US,3,0,0
+"Schuyler, Illinois, US",US,1,0,0
+"Schuyler, New York, US",US,8,0,0
+"Schuylkill, Pennsylvania, US",US,256,5,0
+"Scioto, Ohio, US",US,9,0,0
+"Scotland, Missouri, US",US,4,0,0
+"Scotland, North Carolina, US",US,12,0,0
+"Scott, Arkansas, US",US,1,0,0
+"Scott, Indiana, US",US,22,2,0
+"Scott, Iowa, US",US,156,3,0
+"Scott, Kansas, US",US,1,0,0
+"Scott, Kentucky, US",US,23,0,0
+"Scott, Minnesota, US",US,24,1,0
+"Scott, Mississippi, US",US,130,0,0
+"Scott, Missouri, US",US,50,1,0
+"Scott, Tennessee, US",US,11,0,0
+"Scott, Virginia, US",US,4,0,0
+"Scotts Bluff, Nebraska, US",US,22,0,0
+"Screven, Georgia, US",US,10,1,0
+"Scurry, Texas, US",US,2,0,0
+"Searcy, Arkansas, US",US,6,0,0
+"Sebastian, Arkansas, US",US,11,0,0
+"Sedgwick, Kansas, US",US,238,4,0
+"Seminole, Florida, US",US,315,5,0
+"Seminole, Georgia, US",US,19,2,0
+"Seminole, Oklahoma, US",US,6,1,0
+"Seneca, New York, US",US,18,0,0
+"Seneca, Ohio, US",US,11,1,0
+"Sequatchie, Tennessee, US",US,3,0,0
+"Sequoyah, Oklahoma, US",US,8,2,0
+"Sevier, Arkansas, US",US,9,0,0
+"Sevier, Tennessee, US",US,23,1,0
+"Seward, Kansas, US",US,47,0,0
+"Seward, Nebraska, US",US,2,0,0
+"Sharkey, Mississippi, US",US,3,0,0
+"Sharp, Arkansas, US",US,2,0,0
+"Shasta, California, US",US,23,3,0
+"Shawano, Wisconsin, US",US,6,0,0
+"Shawnee, Kansas, US",US,86,5,0
+"Sheboygan, Wisconsin, US",US,38,2,0
+"Shelby, Alabama, US",US,261,7,0
+"Shelby, Illinois, US",US,4,0,0
+"Shelby, Indiana, US",US,101,4,0
+"Shelby, Iowa, US",US,9,0,0
+"Shelby, Kentucky, US",US,21,2,0
+"Shelby, Missouri, US",US,1,0,0
+"Shelby, Ohio, US",US,29,0,0
+"Shelby, Tennessee, US",US,1743,35,0
+"Shelby, Texas, US",US,60,0,0
+"Shenandoah, Virginia, US",US,39,0,0
+"Sherburne, Minnesota, US",US,13,0,0
+"Sheridan, Wyoming, US",US,12,0,0
+"Sherman, Kansas, US",US,1,0,0
+"Sherman, Oregon, US",US,1,0,0
+"Sherman, Texas, US",US,7,0,0
+"Shiawassee, Michigan, US",US,92,2,0
+"Sibley, Minnesota, US",US,1,0,0
+"Silver Bow, Montana, US",US,11,0,0
+"Simpson, Kentucky, US",US,19,2,0
+"Simpson, Mississippi, US",US,21,0,0
+"Sioux, Iowa, US",US,7,0,0
+"Sioux, North Dakota, US",US,1,0,0
+"Siskiyou, California, US",US,5,0,0
+"Skagit, Washington, US",US,233,7,0
+"Skamania, Washington, US",US,3,0,0
+"Slope, North Dakota, US",US,3,0,0
+"Smith, Kansas, US",US,2,0,0
+"Smith, Mississippi, US",US,44,1,0
+"Smith, Tennessee, US",US,12,1,0
+"Smith, Texas, US",US,119,2,0
+"Smyth, Virginia, US",US,12,0,0
+"Snohomish, Washington, US",US,2050,93,0
+"Snyder, Pennsylvania, US",US,26,1,0
+"Socorro, New Mexico, US",US,19,1,0
+"Solano, California, US",US,167,2,0
+"Somerset, Maine, US",US,16,0,0
+"Somerset, Maryland, US",US,10,0,0
+"Somerset, New Jersey, US",US,2226,158,0
+"Somerset, Pennsylvania, US",US,18,0,0
+"Sonoma, California, US",US,178,2,0
+"Southampton, Virginia, US",US,16,0,0
+"Southeast Fairbanks, Alaska, US",US,1,0,0
+"Southeast Utah, Utah, US",US,6,0,0
+"Southwest Utah, Utah, US",US,65,1,0
+"Spalding, Georgia, US",US,121,7,0
+"Spartanburg, South Carolina, US",US,208,5,0
+"Spencer, Indiana, US",US,4,0,0
+"Spencer, Kentucky, US",US,9,0,0
+"Spink, South Dakota, US",US,3,0,0
+"Spokane, Washington, US",US,290,17,0
+"Spotsylvania, Virginia, US",US,74,0,0
+"St. Bernard, Louisiana, US",US,399,12,0
+"St. Charles, Louisiana, US",US,460,28,0
+"St. Charles, Missouri, US",US,424,19,0
+"St. Clair, Alabama, US",US,54,0,0
+"St. Clair, Illinois, US",US,253,18,0
+"St. Clair, Michigan, US",US,233,11,0
+"St. Clair, Missouri, US",US,2,0,0
+"St. Croix, Wisconsin, US",US,11,0,0
+"St. Francis, Arkansas, US",US,64,0,0
+"St. Francois, Missouri, US",US,23,1,0
+"St. Helena, Louisiana, US",US,18,1,0
+"St. James, Louisiana, US",US,203,15,0
+"St. John the Baptist, Louisiana, US",US,589,53,0
+"St. Johns, Florida, US",US,186,4,0
+"St. Joseph, Indiana, US",US,394,8,0
+"St. Joseph, Michigan, US",US,24,1,0
+"St. Landry, Louisiana, US",US,114,20,0
+"St. Lawrence, New York, US",US,105,0,0
+"St. Louis, Minnesota, US",US,39,9,0
+"St. Louis, Missouri, US",US,2154,81,0
+"St. Louis City, Missouri, US",US,801,30,0
+"St. Lucie, Florida, US",US,187,15,0
+"St. Martin, Louisiana, US",US,178,12,0
+"St. Mary, Louisiana, US",US,138,11,0
+"St. Mary's, Maryland, US",US,120,2,0
+"St. Tammany, Louisiana, US",US,940,71,0
+"Stafford, Kansas, US",US,1,0,0
+"Stafford, Virginia, US",US,152,0,0
+"Stanislaus, California, US",US,217,4,0
+"Stanly, North Carolina, US",US,17,3,0
+"Stanton, Kansas, US",US,3,0,0
+"Stanton, Nebraska, US",US,2,0,0
+"Stark, Illinois, US",US,1,0,0
+"Stark, North Dakota, US",US,37,2,0
+"Stark, Ohio, US",US,200,24,0
+"Starke, Indiana, US",US,10,1,0
+"Starr, Texas, US",US,7,0,0
+"Staunton, Virginia, US",US,5,0,0
+"Ste. Genevieve, Missouri, US",US,6,1,0
+"Stearns, Minnesota, US",US,16,0,0
+"Steele, Minnesota, US",US,9,0,0
+"Stephens, Georgia, US",US,34,1,0
+"Stephens, Oklahoma, US",US,14,1,0
+"Stephens, Texas, US",US,1,0,0
+"Stephenson, Illinois, US",US,12,0,0
+"Steuben, Indiana, US",US,16,1,0
+"Steuben, New York, US",US,158,23,0
+"Stevens, Kansas, US",US,3,0,0
+"Stevens, Washington, US",US,7,1,0
+"Stewart, Georgia, US",US,15,0,0
+"Stewart, Tennessee, US",US,6,0,0
+"Stillwater, Montana, US",US,1,0,0
+"Stoddard, Missouri, US",US,18,0,0
+"Stokes, North Carolina, US",US,10,0,0
+"Stone, Arkansas, US",US,7,0,0
+"Stone, Mississippi, US",US,18,0,0
+"Stone, Missouri, US",US,3,0,0
+"Story, Iowa, US",US,18,0,0
+"Strafford, New Hampshire, US",US,94,0,0
+"Stutsman, North Dakota, US",US,1,0,0
+"Sublette, Wyoming, US",US,1,0,0
+"Suffolk, Massachusetts, US",US,7838,236,0
+"Suffolk, New York, US",US,26195,693,0
+"Suffolk, Virginia, US",US,91,0,0
+"Sullivan, Indiana, US",US,8,0,0
+"Sullivan, New Hampshire, US",US,10,0,0
+"Sullivan, New York, US",US,526,11,0
+"Sullivan, Pennsylvania, US",US,1,0,0
+"Sullivan, Tennessee, US",US,44,1,0
+"Sully, South Dakota, US",US,1,0,0
+"Summers, West Virginia, US",US,1,0,0
+"Summit, Colorado, US",US,92,1,0
+"Summit, Ohio, US",US,329,21,0
+"Summit, Utah, US",US,318,0,0
+"Sumner, Kansas, US",US,2,1,0
+"Sumner, Tennessee, US",US,479,30,0
+"Sumter, Alabama, US",US,36,0,0
+"Sumter, Florida, US",US,136,11,0
+"Sumter, Georgia, US",US,318,14,0
+"Sumter, South Carolina, US",US,175,6,0
+"Sunflower, Mississippi, US",US,45,2,0
+"Surry, North Carolina, US",US,17,0,0
+"Surry, Virginia, US",US,3,0,0
+"Susquehanna, Pennsylvania, US",US,60,3,0
+"Sussex, Delaware, US",US,861,25,0
+"Sussex, New Jersey, US",US,597,62,0
+"Sussex, Virginia, US",US,11,0,0
+"Sutter, California, US",US,23,2,0
+"Suwannee, Florida, US",US,92,6,0
+"Sweetwater, Wyoming, US",US,10,0,0
+"Swift, Minnesota, US",US,1,0,0
+"Swisher, Texas, US",US,4,0,0
+"Switzerland, Indiana, US",US,13,0,0
+"Talbot, Georgia, US",US,15,1,0
+"Talbot, Maryland, US",US,18,1,0
+"Talladega, Alabama, US",US,45,1,0
+"Tallahatchie, Mississippi, US",US,7,1,0
+"Tallapoosa, Alabama, US",US,183,12,0
+"Tama, Iowa, US",US,181,6,0
+"Taney, Missouri, US",US,8,1,0
+"Tangipahoa, Louisiana, US",US,424,18,0
+"Taos, New Mexico, US",US,15,0,0
+"Tarrant, Texas, US",US,1191,38,0
+"Tate, Mississippi, US",US,31,0,0
+"Tattnall, Georgia, US",US,5,0,0
+"Taylor, Florida, US",US,1,0,0
+"Taylor, Georgia, US",US,9,2,0
+"Taylor, Iowa, US",US,1,0,0
+"Taylor, Kentucky, US",US,5,0,0
+"Taylor, Texas, US",US,140,2,0
+"Taylor, West Virginia, US",US,5,0,0
+"Tazewell, Illinois, US",US,23,3,0
+"Tazewell, Virginia, US",US,4,0,0
+"Tehama, California, US",US,0,1,0
+"Telfair, Georgia, US",US,14,0,0
+"Teller, Colorado, US",US,22,2,0
+"Tensas, Louisiana, US",US,1,0,0
+"Terrebonne, Louisiana, US",US,299,21,0
+"Terrell, Georgia, US",US,134,14,0
+"Terry, Texas, US",US,10,0,0
+"Teton, Idaho, US",US,8,0,0
+"Teton, Wyoming, US",US,62,0,0
+"Texas, Missouri, US",US,0,0,0
+"Texas, Oklahoma, US",US,12,1,0
+"Thomas, Georgia, US",US,114,13,0
+"Thurston, Nebraska, US",US,1,0,0
+"Thurston, Washington, US",US,92,1,0
+"Tift, Georgia, US",US,83,3,0
+"Tillamook, Oregon, US",US,6,0,0
+"Tillman, Oklahoma, US",US,2,0,0
+"Tioga, New York, US",US,35,0,0
+"Tioga, Pennsylvania, US",US,13,1,0
+"Tippah, Mississippi, US",US,40,7,0
+"Tippecanoe, Indiana, US",US,54,2,0
+"Tipton, Indiana, US",US,12,1,0
+"Tipton, Tennessee, US",US,56,0,0
+"Tishomingo, Mississippi, US",US,4,0,0
+"Titus, Texas, US",US,9,0,0
+"Todd, Kentucky, US",US,9,0,0
+"Todd, Minnesota, US",US,2,0,0
+"Todd, South Dakota, US",US,1,0,0
+"Tolland, Connecticut, US",US,252,24,0
+"Tom Green, Texas, US",US,40,1,0
+"Tompkins, New York, US",US,119,0,0
+"Tooele, Utah, US",US,42,0,0
+"Toole, Montana, US",US,25,4,0
+"Toombs, Georgia, US",US,18,2,0
+"Torrance, New Mexico, US",US,12,0,0
+"Towns, Georgia, US",US,13,0,0
+"Transylvania, North Carolina, US",US,7,0,0
+"Traverse, Minnesota, US",US,2,0,0
+"Travis, Texas, US",US,1069,23,0
+"Trempealeau, Wisconsin, US",US,1,0,0
+"Treutlen, Georgia, US",US,1,0,0
+"TriCounty, Utah, US",US,10,0,0
+"Trigg, Kentucky, US",US,4,0,0
+"Trimble, Kentucky, US",US,2,0,0
+"Trinity, Texas, US",US,7,0,0
+"Troup, Georgia, US",US,83,4,0
+"Trousdale, Tennessee, US",US,21,1,0
+"Trumbull, Ohio, US",US,218,19,0
+"Tucker, West Virginia, US",US,4,0,0
+"Tulare, California, US",US,394,17,0
+"Tulsa, Oklahoma, US",US,389,22,0
+"Tunica, Mississippi, US",US,30,1,0
+"Tuolumne, California, US",US,2,0,0
+"Turner, Georgia, US",US,54,2,0
+"Turner, South Dakota, US",US,6,0,0
+"Tuscaloosa, Alabama, US",US,144,1,0
+"Tuscarawas, Ohio, US",US,31,0,0
+"Tuscola, Michigan, US",US,50,11,0
+"Twiggs, Georgia, US",US,4,0,0
+"Twin Falls, Idaho, US",US,106,9,0
+"Tyler, Texas, US",US,6,0,0
+"Tyler, West Virginia, US",US,3,0,0
+"Tyrrell, North Carolina, US",US,4,0,0
+"Uinta, Wyoming, US",US,6,0,0
+"Ulster, New York, US",US,944,16,0
+"Umatilla, Oregon, US",US,26,0,0
+"Unassigned, Alabama, US",US,0,0,0
+"Unassigned, Alaska, US",US,-4,4,0
+"Unassigned, Arizona, US",US,-1,1,0
+"Unassigned, Arkansas, US",US,46,0,0
+"Unassigned, California, US",US,-2,2,0
+"Unassigned, Colorado, US",US,113,1,0
+"Unassigned, Connecticut, US",US,525,4,0
+"Unassigned, Delaware, US",US,30,0,0
+"Unassigned, Florida, US",US,3,0,0
+"Unassigned, Georgia, US",US,254,0,0
+"Unassigned, Hawaii, US",US,0,0,0
+"Unassigned, Idaho, US",US,0,0,0
+"Unassigned, Illinois, US",US,112,3,0
+"Unassigned, Indiana, US",US,0,0,0
+"Unassigned, Iowa, US",US,7,0,0
+"Unassigned, Kansas, US",US,0,0,0
+"Unassigned, Kentucky, US",US,73,6,0
+"Unassigned, Louisiana, US",US,57,1,0
+"Unassigned, Maine, US",US,2,0,0
+"Unassigned, Massachusetts, US",US,795,20,0
+"Unassigned, Michigan, US",US,25,4,0
+"Unassigned, Minnesota, US",US,4,0,0
+"Unassigned, Mississippi, US",US,0,0,0
+"Unassigned, Missouri, US",US,0,0,0
+"Unassigned, Montana, US",US,0,0,0
+"Unassigned, Nebraska, US",US,30,10,0
+"Unassigned, Nevada, US",US,20,0,0
+"Unassigned, New Hampshire, US",US,-35,35,0
+"Unassigned, New Jersey, US",US,585,0,0
+"Unassigned, New Mexico, US",US,0,0,0
+"Unassigned, New York, US",US,-401,401,0
+"Unassigned, North Carolina, US",US,3,0,0
+"Unassigned, Ohio, US",US,0,0,0
+"Unassigned, Oklahoma, US",US,0,0,0
+"Unassigned, Oregon, US",US,0,0,0
+"Unassigned, Pennsylvania, US",US,0,0,0
+"Unassigned, Rhode Island, US",US,883,147,0
+"Unassigned, South Dakota, US",US,0,0,0
+"Unassigned, Tennessee, US",US,88,0,0
+"Unassigned, Utah, US",US,0,0,0
+"Unassigned, Vermont, US",US,9,1,0
+"Unassigned, Virginia, US",US,-113,113,0
+"Unassigned, Washington, US",US,436,0,0
+"Unassigned, West Virginia, US",US,-11,11,0
+"Unassigned, Wisconsin, US",US,0,0,0
+"Unassigned, Wyoming, US",US,-1,1,0
+"Unicoi, Tennessee, US",US,1,0,0
+"Union, Arkansas, US",US,24,0,0
+"Union, Florida, US",US,3,0,0
+"Union, Georgia, US",US,13,1,0
+"Union, Illinois, US",US,5,0,0
+"Union, Indiana, US",US,6,0,0
+"Union, Iowa, US",US,1,0,0
+"Union, Kentucky, US",US,8,0,0
+"Union, Louisiana, US",US,73,5,0
+"Union, Mississippi, US",US,10,1,0
+"Union, New Jersey, US",US,9237,372,0
+"Union, North Carolina, US",US,146,3,0
+"Union, Ohio, US",US,12,0,0
+"Union, Oregon, US",US,4,0,0
+"Union, Pennsylvania, US",US,27,0,0
+"Union, South Carolina, US",US,24,0,0
+"Union, South Dakota, US",US,6,0,0
+"Union, Tennessee, US",US,3,0,0
+"Upshur, Texas, US",US,9,0,0
+"Upshur, West Virginia, US",US,4,0,0
+"Upson, Georgia, US",US,162,8,0
+"Utah, Utah, US",US,450,5,0
+"Uvalde, Texas, US",US,6,0,0
+"Val Verde, Texas, US",US,12,0,0
+"Valencia, New Mexico, US",US,29,0,0
+"Valley, Idaho, US",US,2,0,0
+"Van Buren, Arkansas, US",US,24,2,0
+"Van Buren, Iowa, US",US,8,0,0
+"Van Buren, Michigan, US",US,30,2,0
+"Van Buren, Tennessee, US",US,1,0,0
+"Van Wert, Ohio, US",US,3,0,0
+"Van Zandt, Texas, US",US,11,1,0
+"Vance, North Carolina, US",US,31,1,0
+"Vanderburgh, Indiana, US",US,84,1,0
+"Venango, Pennsylvania, US",US,6,0,0
+"Ventura, California, US",US,409,13,0
+"Vermilion, Illinois, US",US,9,0,0
+"Vermilion, Louisiana, US",US,29,1,0
+"Vermillion, Indiana, US",US,6,0,0
+"Vernon, Louisiana, US",US,13,1,0
+"Vernon, Missouri, US",US,4,0,0
+"Victoria, Texas, US",US,92,1,0
+"Vigo, Indiana, US",US,52,5,0
+"Vilas, Wisconsin, US",US,4,0,0
+"Virginia Beach, Virginia, US",US,267,6,0
+"Volusia, Florida, US",US,323,10,0
+"Wabash, Illinois, US",US,1,0,0
+"Wabash, Indiana, US",US,9,0,0
+"Wabasha, Minnesota, US",US,8,0,0
+"Wabaunsee, Kansas, US",US,1,0,0
+"Wagoner, Oklahoma, US",US,100,8,0
+"Wahkiakum, Washington, US",US,2,0,0
+"Wake, North Carolina, US",US,588,4,0
+"Wakulla, Florida, US",US,13,1,0
+"Waldo, Maine, US",US,35,7,0
+"Walker, Alabama, US",US,85,0,0
+"Walker, Georgia, US",US,15,0,0
+"Walker, Texas, US",US,77,0,0
+"Walla Walla, Washington, US",US,27,0,0
+"Waller, Texas, US",US,24,0,0
+"Wallowa, Oregon, US",US,1,0,0
+"Walsh, North Dakota, US",US,3,0,0
+"Walthall, Mississippi, US",US,24,0,0
+"Walton, Florida, US",US,32,0,0
+"Walton, Georgia, US",US,57,3,0
+"Walworth, South Dakota, US",US,5,0,0
+"Walworth, Wisconsin, US",US,83,6,0
+"Wapello, Iowa, US",US,6,0,0
+"Ward, North Dakota, US",US,19,1,0
+"Ware, Georgia, US",US,79,6,0
+"Warren, Georgia, US",US,10,0,0
+"Warren, Illinois, US",US,13,0,0
+"Warren, Indiana, US",US,6,1,0
+"Warren, Iowa, US",US,18,0,0
+"Warren, Kentucky, US",US,95,0,0
+"Warren, Mississippi, US",US,20,1,0
+"Warren, Missouri, US",US,22,0,0
+"Warren, New Jersey, US",US,548,44,0
+"Warren, New York, US",US,96,0,0
+"Warren, North Carolina, US",US,3,0,0
+"Warren, Ohio, US",US,103,9,0
+"Warren, Pennsylvania, US",US,1,0,0
+"Warren, Tennessee, US",US,5,0,0
+"Warren, Virginia, US",US,24,0,0
+"Warrick, Indiana, US",US,54,4,0
+"Wasatch, Utah, US",US,110,1,0
+"Wasco, Oregon, US",US,10,0,0
+"Waseca, Minnesota, US",US,3,0,0
+"Washakie, Wyoming, US",US,5,0,0
+"Washburn, Wisconsin, US",US,1,0,0
+"Washington, Alabama, US",US,15,1,0
+"Washington, Arkansas, US",US,46,0,0
+"Washington, Colorado, US",US,6,0,0
+"Washington, Florida, US",US,6,0,0
+"Washington, Georgia, US",US,24,1,0
+"Washington, Idaho, US",US,1,0,0
+"Washington, Illinois, US",US,7,0,0
+"Washington, Indiana, US",US,29,0,0
+"Washington, Iowa, US",US,113,5,0
+"Washington, Kentucky, US",US,3,0,0
+"Washington, Louisiana, US",US,180,11,0
+"Washington, Maine, US",US,2,0,0
+"Washington, Maryland, US",US,114,3,0
+"Washington, Minnesota, US",US,90,4,0
+"Washington, Mississippi, US",US,68,3,0
+"Washington, Missouri, US",US,4,0,0
+"Washington, Nebraska, US",US,20,0,0
+"Washington, New York, US",US,61,2,0
+"Washington, North Carolina, US",US,18,2,0
+"Washington, Ohio, US",US,59,6,0
+"Washington, Oklahoma, US",US,134,6,0
+"Washington, Oregon, US",US,391,8,0
+"Washington, Pennsylvania, US",US,80,2,0
+"Washington, Rhode Island, US",US,184,0,0
+"Washington, Tennessee, US",US,46,0,0
+"Washington, Texas, US",US,48,4,0
+"Washington, Vermont, US",US,31,1,0
+"Washington, Virginia, US",US,29,0,0
+"Washington, Wisconsin, US",US,81,3,0
+"Washoe, Nevada, US",US,619,18,0
+"Washtenaw, Michigan, US",US,840,30,0
+"Watauga, North Carolina, US",US,8,0,0
+"Watonwan, Minnesota, US",US,4,0,0
+"Waukesha, Wisconsin, US",US,254,11,0
+"Waupaca, Wisconsin, US",US,3,1,0
+"Waushara, Wisconsin, US",US,2,0,0
+"Wayne, Georgia, US",US,7,0,0
+"Wayne, Illinois, US",US,1,0,0
+"Wayne, Indiana, US",US,25,2,0
+"Wayne, Kentucky, US",US,6,0,0
+"Wayne, Michigan, US",US,12573,1119,0
+"Wayne, Mississippi, US",US,11,0,0
+"Wayne, Nebraska, US",US,1,0,0
+"Wayne, New York, US",US,50,0,0
+"Wayne, North Carolina, US",US,459,4,0
+"Wayne, Ohio, US",US,67,12,0
+"Wayne, Pennsylvania, US",US,81,3,0
+"Wayne, Tennessee, US",US,2,0,0
+"Wayne, West Virginia, US",US,78,0,0
+"Waynesboro, Virginia, US",US,7,0,0
+"Weakley, Tennessee, US",US,8,0,0
+"Webb, Texas, US",US,256,11,0
+"Weber-Morgan, Utah, US",US,118,1,0
+"Webster, Georgia, US",US,5,0,0
+"Webster, Iowa, US",US,3,0,0
+"Webster, Kentucky, US",US,13,0,0
+"Webster, Louisiana, US",US,72,4,0
+"Webster, Mississippi, US",US,14,1,0
+"Webster, Missouri, US",US,8,0,0
+"Webster, Nebraska, US",US,2,0,0
+"Weld, Colorado, US",US,999,64,0
+"Wells, Indiana, US",US,5,0,0
+"West Baton Rouge, Louisiana, US",US,78,10,0
+"West Carroll, Louisiana, US",US,4,0,0
+"West Feliciana, Louisiana, US",US,74,0,0
+"Westchester, New York, US",US,23135,668,0
+"Westmoreland, Pennsylvania, US",US,268,16,0
+"Westmoreland, Virginia, US",US,10,0,0
+"Wetzel, West Virginia, US",US,3,0,0
+"Wexford, Michigan, US",US,6,1,0
+"Wharton, Texas, US",US,34,0,0
+"Whatcom, Washington, US",US,251,26,0
+"Wheeler, Georgia, US",US,3,0,0
+"White, Arkansas, US",US,29,0,0
+"White, Georgia, US",US,20,0,0
+"White, Indiana, US",US,7,0,0
+"White, Tennessee, US",US,4,0,0
+"White Pine, Nevada, US",US,3,0,0
+"Whiteside, Illinois, US",US,33,3,0
+"Whitfield, Georgia, US",US,40,3,0
+"Whitley, Indiana, US",US,15,1,0
+"Whitley, Kentucky, US",US,8,0,0
+"Whitman, Washington, US",US,15,0,0
+"Wichita, Texas, US",US,57,2,0
+"Wicomico, Maryland, US",US,142,3,0
+"Wilbarger, Texas, US",US,1,0,0
+"Wilcox, Alabama, US",US,46,1,0
+"Wilcox, Georgia, US",US,40,3,0
+"Wilkes, Georgia, US",US,17,0,0
+"Wilkes, North Carolina, US",US,3,1,0
+"Wilkin, Minnesota, US",US,7,2,0
+"Wilkinson, Georgia, US",US,19,1,0
+"Wilkinson, Mississippi, US",US,53,5,0
+"Will, Illinois, US",US,1542,101,0
+"Willacy, Texas, US",US,7,1,0
+"Williams, North Dakota, US",US,9,0,0
+"Williams, Ohio, US",US,7,1,0
+"Williamsburg, South Carolina, US",US,21,0,0
+"Williamsburg, Virginia, US",US,18,1,0
+"Williamson, Illinois, US",US,14,0,0
+"Williamson, Tennessee, US",US,342,6,0
+"Williamson, Texas, US",US,147,4,0
+"Wilson, Kansas, US",US,1,0,0
+"Wilson, North Carolina, US",US,108,4,0
+"Wilson, Tennessee, US",US,180,1,0
+"Wilson, Texas, US",US,20,1,0
+"Winchester, Virginia, US",US,25,0,0
+"Windham, Connecticut, US",US,98,2,0
+"Windham, Vermont, US",US,61,2,0
+"Windsor, Vermont, US",US,35,2,0
+"Winkler, Texas, US",US,3,0,0
+"Winn, Louisiana, US",US,17,2,0
+"Winnebago, Illinois, US",US,174,4,0
+"Winnebago, Iowa, US",US,2,0,0
+"Winnebago, Wisconsin, US",US,40,1,0
+"Winneshiek, Iowa, US",US,6,0,0
+"Winona, Minnesota, US",US,51,10,0
+"Winston, Alabama, US",US,9,0,0
+"Winston, Mississippi, US",US,33,0,0
+"Wirt, West Virginia, US",US,2,0,0
+"Wise, Texas, US",US,7,2,0
+"Wise, Virginia, US",US,18,0,0
+"Wood, Ohio, US",US,75,9,0
+"Wood, Texas, US",US,6,0,0
+"Wood, West Virginia, US",US,31,0,0
+"Wood, Wisconsin, US",US,2,0,0
+"Woodbury, Iowa, US",US,37,0,0
+"Woodford, Illinois, US",US,11,0,0
+"Woodford, Kentucky, US",US,18,0,0
+"Woodruff, Arkansas, US",US,1,0,0
+"Woods, Oklahoma, US",US,1,0,0
+"Woodson, Kansas, US",US,5,0,0
+"Woodward, Oklahoma, US",US,1,0,0
+"Worcester, Maryland, US",US,33,0,0
+"Worcester, Massachusetts, US",US,2955,114,0
+"Worth, Georgia, US",US,117,4,0
+"Worth, Iowa, US",US,1,0,0
+"Worth, Missouri, US",US,1,0,0
+"Wright, Iowa, US",US,1,0,0
+"Wright, Minnesota, US",US,24,1,0
+"Wright, Missouri, US",US,9,0,0
+"Wyandot, Ohio, US",US,15,2,0
+"Wyandotte, Kansas, US",US,380,37,0
+"Wyoming, New York, US",US,41,3,0
+"Wyoming, Pennsylvania, US",US,16,1,0
+"Wyoming, West Virginia, US",US,1,0,0
+"Wythe, Virginia, US",US,10,0,0
+"Yadkin, North Carolina, US",US,10,1,0
+"Yakima, Washington, US",US,768,36,0
+"Yalobusha, Mississippi, US",US,15,0,0
+"Yamhill, Oregon, US",US,28,6,0
+"Yankton, South Dakota, US",US,23,0,0
+"Yates, New York, US",US,9,0,0
+"Yavapai, Arizona, US",US,71,1,0
+"Yazoo, Mississippi, US",US,90,1,0
+"Yell, Arkansas, US",US,2,0,0
+"Yellow Medicine, Minnesota, US",US,3,0,0
+"Yellowstone, Montana, US",US,71,1,0
+"Yoakum, Texas, US",US,1,0,0
+"Yolo, California, US",US,129,8,0
+"York, Maine, US",US,171,6,0
+"York, Nebraska, US",US,7,0,0
+"York, Pennsylvania, US",US,475,6,0
+"York, South Carolina, US",US,153,3,0
+"York, Virginia, US",US,43,1,0
+"Young, Texas, US",US,3,1,0
+"Yuba, California, US",US,15,1,0
+"Yukon-Koyukuk, Alaska, US",US,1,0,0
+"Yuma, Arizona, US",US,28,1,0
+"Yuma, Colorado, US",US,3,0,0
+"Zapata, Texas, US",US,6,0,0
+"Zavala, Texas, US",US,1,0,0
+"Alberta, Canada",Canada,2752,51,0
+"Anguilla, United Kingdom",United Kingdom,2,0,1
+"Anhui, China",China,1,6,984
+"Aruba, Netherlands",Netherlands,46,2,49
+"Australian Capital Territory, Australia",Australia,12,3,88
+"Beijing, China",China,75,8,510
+"Bermuda, United Kingdom",United Kingdom,46,5,35
+"Bonaire, Sint Eustatius and Saba, Netherlands",Netherlands,5,0,0
+"British Columbia, Canada",Canada,1566,81,0
+"British Virgin Islands, United Kingdom",United Kingdom,1,1,2
+"Cayman Islands, United Kingdom",United Kingdom,53,1,7
+"Channel Islands, United Kingdom",United Kingdom,394,21,73
+"Chongqing, China",China,3,6,570
+"Curacao, Netherlands",Netherlands,2,1,11
+"Diamond Princess, US",US,49,0,0
+"Falkland Islands (Malvinas), United Kingdom",United Kingdom,8,0,3
+"Faroe Islands, Denmark",Denmark,9,0,176
+"French Guiana, France",France,32,0,64
+"French Polynesia, France",France,53,0,2
+"Fujian, China",China,15,1,339
+"Gansu, China",China,0,2,137
+"Gibraltar, United Kingdom",United Kingdom,12,0,120
+"Grand Princess, Canada",Canada,13,0,0
+"Grand Princess, US",US,103,0,0
+"Greenland, Denmark",Denmark,0,0,11
+"Guadeloupe, France",France,67,8,73
+"Guam, US",US,131,5,0
+"Guangdong, China",China,82,8,1490
+"Guangxi, China",China,0,2,252
+"Guizhou, China",China,0,2,145
+"Hainan, China",China,0,6,162
+"Hebei, China",China,6,6,316
+"Heilongjiang, China",China,413,13,472
+"Henan, China",China,0,22,1254
+"Hong Kong, China",China,419,4,602
+"Hubei, China",China,109,4512,63507
+"Hunan, China",China,0,4,1015
+"Inner Mongolia, China",China,88,1,104
+"Isle of Man, United Kingdom",United Kingdom,99,6,193
+"Jiangsu, China",China,10,0,643
+"Jiangxi, China",China,0,1,936
+"Jilin, China",China,6,1,97
+"Liaoning, China",China,2,2,142
+"Macau, China",China,25,0,20
+"Manitoba, Canada",Canada,249,5,0
+"Martinique, France",France,78,12,73
+"Mayotte, France",France,150,4,117
+"Montserrat, United Kingdom",United Kingdom,9,0,2
+"New Brunswick, Canada",Canada,118,0,0
+"New Caledonia, France",France,3,0,15
+"New South Wales, Australia",Australia,1521,26,1379
+"Newfoundland and Labrador, Canada",Canada,254,3,0
+"Ningxia, China",China,0,0,75
+"Northern Mariana Islands, US",US,12,2,0
+"Northern Territory, Australia",Australia,19,0,9
+"Northwest Territories, Canada",Canada,5,0,0
+"Nova Scotia, Canada",Canada,666,9,0
+"Ontario, Canada",Canada,10970,591,0
+"Prince Edward Island, Canada",Canada,26,0,0
+"Puerto Rico, US",US,1151,62,0
+"Qinghai, China",China,0,0,18
+"Quebec, Canada",Canada,17130,820,0
+"Queensland, Australia",Australia,271,6,738
+"Recovered, Canada",Canada,-11847,0,11847
+"Recovered, US",US,-70337,0,70337
+"Reunion, France",France,171,0,237
+"Saint Barthelemy, France",France,1,0,5
+"Saint Pierre and Miquelon, France",France,1,0,0
+"Saskatchewan, Canada",Canada,311,4,0
+"Shaanxi, China",China,1,3,252
+"Shandong, China",China,15,7,765
+"Shanghai, China",China,107,7,521
+"Shanxi, China",China,62,0,135
+"Sichuan, China",China,4,3,554
+"Sint Maarten, Netherlands",Netherlands,45,10,12
+"South Australia, Australia",Australia,100,4,331
+"St Martin, France",France,16,2,19
+"Tasmania, Australia",Australia,106,7,67
+"Tianjin, China",China,12,3,174
+"Tibet, China",China,0,0,1
+"Turks and Caicos Islands, United Kingdom",United Kingdom,10,1,0
+"Victoria, Australia",Australia,133,14,1172
+"Virgin Islands, US",US,50,3,0
+"Western Australia, Australia",Australia,194,7,340
+"Xinjiang, China",China,0,3,73
+"Yukon, Canada",Canada,9,0,0
+"Yunnan, China",China,4,2,178
+"Zhejiang, China",China,20,1,1247
+Afghanistan,Afghanistan,832,33,131
+Albania,Albania,222,26,314
+Algeria,Algeria,1207,375,1047
+Andorra,Andorra,442,36,235
+Angola,Angola,16,2,6
+Antigua and Barbuda,Antigua and Barbuda,17,3,3
+Argentina,Argentina,1998,132,709
+Armenia,Armenia,726,20,545
+Austria,Austria,3796,452,10501
+Azerbaijan,Azerbaijan,667,19,712
+Bahamas,Bahamas,36,9,10
+Bahrain,Bahrain,1115,7,759
+Bangladesh,Bangladesh,2290,91,75
+Barbados,Barbados,53,5,17
+Belarus,Belarus,4238,47,494
+Belgium,Belgium,24056,5683,8757
+Belize,Belize,14,2,2
+Benin,Benin,16,1,18
+Bhutan,Bhutan,3,0,2
+Bolivia,Bolivia,457,32,31
+Bosnia and Herzegovina,Bosnia and Herzegovina,890,48,347
+Botswana,Botswana,19,1,0
+Brazil,Brazil,14062,2462,22130
+Brunei,Brunei,22,1,115
+Bulgaria,Bulgaria,691,42,161
+Burkina Faso,Burkina Faso,202,36,338
+Burma,Burma,99,5,7
+Burundi,Burundi,4,1,0
+Cabo Verde,Cabo Verde,59,1,1
+Cambodia,Cambodia,17,0,105
+Cameroon,Cameroon,670,42,305
+Central African Republic,Central African Republic,8,0,4
+Chad,Chad,25,0,8
+Chile,Chile,5617,133,4338
+Colombia,Colombia,2902,179,711
+Congo (Brazzaville),Congo (Brazzaville),126,6,11
+Congo (Kinshasa),Congo (Kinshasa),276,25,26
+Costa Rica,Costa Rica,543,5,112
+Cote d'Ivoire,Cote d'Ivoire,578,9,260
+Croatia,Croatia,1115,47,709
+Cuba,Cuba,746,34,255
+Cyprus,Cyprus,674,12,81
+Czechia,Czechia,5262,186,1298
+Denmark,Denmark,2888,355,4141
+Diamond Princess,Diamond Princess,55,13,644
+Djibouti,Djibouti,742,2,102
+Dominica,Dominica,8,0,8
+Dominican Republic,Dominican Republic,4091,226,363
+Ecuador,Ecuador,7933,474,1061
+Egypt,Egypt,2173,239,732
+El Salvador,El Salvador,150,7,44
+Equatorial Guinea,Equatorial Guinea,75,0,4
+Eritrea,Eritrea,36,0,3
+Estonia,Estonia,1324,40,164
+Eswatini,Eswatini,13,1,8
+Ethiopia,Ethiopia,89,3,16
+Fiji,Fiji,17,0,0
+Finland,Finland,1989,94,1700
+France,France,96598,19718,36578
+Gabon,Gabon,101,1,7
+Gambia,Gambia,7,1,2
+Georgia,Georgia,297,4,93
+Germany,Germany,52598,4586,88000
+Ghana,Ghana,934,9,99
+Greece,Greece,1853,113,269
+Grenada,Grenada,8,0,6
+Guatemala,Guatemala,229,7,21
+Guinea,Guinea,487,5,87
+Guinea-Bissau,Guinea-Bissau,47,0,3
+Guyana,Guyana,49,7,9
+Haiti,Haiti,44,3,0
+Holy See,Holy See,6,0,2
+Honduras,Honduras,411,46,15
+Hungary,Hungary,1477,189,250
+Iceland,Iceland,471,9,1291
+India,India,14202,559,2854
+Indonesia,Indonesia,5307,582,686
+Iran,Iran,20070,5118,57023
+Iraq,Iraq,448,82,1009
+Ireland,Ireland,14564,610,77
+Israel,Israel,9565,172,3754
+Italy,Italy,108257,23660,47055
+Jamaica,Jamaica,141,5,27
+Japan,Japan,9402,236,1159
+Jordan,Jordan,134,7,276
+Kazakhstan,Kazakhstan,1259,17,400
+Kenya,Kenya,189,14,67
+"Korea, South","Korea, South",2385,234,8042
+Kosovo,Kosovo,405,12,93
+Kuwait,Kuwait,1603,7,305
+Kyrgyzstan,Kyrgyzstan,416,5,133
+Laos,Laos,17,0,2
+Latvia,Latvia,634,5,88
+Lebanon,Lebanon,550,21,102
+Liberia,Liberia,76,8,7
+Libya,Libya,39,1,11
+Liechtenstein,Liechtenstein,25,1,55
+Lithuania,Lithuania,1021,35,242
+Luxembourg,Luxembourg,2850,73,627
+MS Zaandam,MS Zaandam,7,2,0
+Madagascar,Madagascar,82,0,39
+Malawi,Malawi,12,2,3
+Malaysia,Malaysia,2103,89,3197
+Maldives,Maldives,36,0,16
+Mali,Mali,168,14,42
+Malta,Malta,306,3,118
+Mauritania,Mauritania,0,1,6
+Mauritius,Mauritius,111,9,208
+Mexico,Mexico,4220,650,2627
+Moldova,Moldova,1948,67,457
+Monaco,Monaco,69,3,22
+Mongolia,Mongolia,25,0,7
+Montenegro,Montenegro,248,5,55
+Morocco,Morocco,2387,141,327
+Mozambique,Mozambique,31,0,8
+Namibia,Namibia,10,0,6
+Nepal,Nepal,27,0,4
+Netherlands,Netherlands,28721,3684,250
+New Zealand,New Zealand,507,12,912
+Nicaragua,Nicaragua,2,2,6
+Niger,Niger,511,20,117
+Nigeria,Nigeria,436,21,170
+North Macedonia,North Macedonia,977,51,179
+Norway,Norway,6881,165,32
+Oman,Oman,1026,7,233
+Pakistan,Pakistan,6312,168,1868
+Panama,Panama,4013,120,140
+Papua New Guinea,Papua New Guinea,7,0,0
+Paraguay,Paraguay,157,8,41
+Peru,Peru,8417,400,6811
+Philippines,Philippines,5278,409,572
+Poland,Poland,7887,360,1040
+Portugal,Portugal,18882,714,610
+Qatar,Qatar,4922,8,518
+Romania,Romania,6403,451,1892
+Russia,Russia,39201,361,3291
+Rwanda,Rwanda,71,0,76
+Saint Kitts and Nevis,Saint Kitts and Nevis,14,0,0
+Saint Lucia,Saint Lucia,4,0,11
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,11,0,1
+San Marino,San Marino,362,39,60
+Sao Tome and Principe,Sao Tome and Principe,4,0,0
+Saudi Arabia,Saudi Arabia,7867,97,1398
+Senegal,Senegal,144,3,220
+Serbia,Serbia,5443,122,753
+Seychelles,Seychelles,6,0,5
+Sierra Leone,Sierra Leone,29,0,6
+Singapore,Singapore,5809,11,768
+Slovakia,Slovakia,920,12,229
+Slovenia,Slovenia,1064,74,192
+Somalia,Somalia,154,7,3
+South Africa,South Africa,2201,54,903
+South Sudan,South Sudan,4,0,0
+Spain,Spain,100864,20453,77357
+Sri Lanka,Sri Lanka,168,7,96
+Sudan,Sudan,50,10,6
+Suriname,Suriname,3,1,6
+Sweden,Sweden,12295,1540,550
+Switzerland,Switzerland,8547,1393,17800
+Syria,Syria,31,3,5
+Taiwan*,Taiwan*,225,6,189
+Tanzania,Tanzania,152,7,11
+Thailand,Thailand,790,47,1928
+Timor-Leste,Timor-Leste,18,0,1
+Togo,Togo,27,5,52
+Trinidad and Tobago,Trinidad and Tobago,85,8,21
+Tunisia,Tunisia,798,38,43
+Turkey,Turkey,72313,2017,11976
+Uganda,Uganda,27,0,28
+Ukraine,Ukraine,4961,141,347
+United Arab Emirates,United Arab Emirates,5454,41,1286
+United Kingdom,United Kingdom,104007,16060,0
+Uruguay,Uruguay,209,10,298
+Uzbekistan,Uzbekistan,1335,5,225
+Venezuela,Venezuela,130,9,117
+Vietnam,Vietnam,66,0,202
+West Bank and Gaza,West Bank and Gaza,363,3,71
+Western Sahara,Western Sahara,6,0,0
+Yemen,Yemen,1,0,0
+Zambia,Zambia,25,3,33
+Zimbabwe,Zimbabwe,20,3,2
